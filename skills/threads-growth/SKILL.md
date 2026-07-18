@@ -1,18 +1,17 @@
 ---
 name: threads-growth
 description: >-
-  The Threads account-growth strategy skill -- the channel layer above threads-post. Use when someone wants
-  to grow a Threads account, understand the Threads algorithm, fix reach, plan cadence, or set a Threads
-  strategy. Threads is conversation-first (neither X nor Instagram; a positive culture), and the #1 growth
-  lever is Mosseri's "reply more than you post": replies are weighted heaviest and first-hour engagement
-  velocity is the top ranking factor. Uses the TALKS framework. Reads brand-profile + goals-and-kpis first.
-  The agent strategizes the channel + drafts original posts (WoopSocial publishes ONE text+media post <=500
-  chars, one topic tag, on a schedule) + can draft suggested replies; BUT the reply flywheel (the #1 lever) is
-  human/community-management because there's no reply surface in WoopSocial, and Communities/DMs/Account-Status
-  dashboard/Threads analytics/Dear-Algo are native. No engagement-bait (downranked), original not recycled
-  (prioritized), positive tone (negativity throttled), metrics never fabricated, growth compounds over 60-90
-  days. Distinct from threads-post (the single-post craft) and community-management (the reply execution);
-  uses Threads as a discovery funnel into instagram-growth.
+  The Threads account-growth strategy skill -- the channel layer above threads-post. Use when
+  someone wants to grow a Threads account, understand the Threads algorithm, fix reach, plan
+  cadence, or set a Threads strategy. Threads is conversation-first, and the #1 growth lever is
+  Mosseri's "reply more than you post": replies are weighted heaviest and first-hour engagement
+  velocity is the top ranking factor. Uses the TALKS framework. Reads brand-profile + goals-and-kpis
+  first. The agent strategizes the channel + drafts original posts (published via WoopSocial) and
+  suggested replies; BUT the reply flywheel is human/community-management (no reply surface in
+  WoopSocial), and Communities/DMs/dashboards/analytics are native. No engagement-bait, original not
+  recycled, positive tone, metrics never fabricated, growth compounds over 60-90 days. Distinct from
+  threads-post (the single-post craft) and community-management (the reply execution); uses Threads
+  as a discovery funnel into instagram-growth.
 version: 1.0.0
 ---
 

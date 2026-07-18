@@ -1,21 +1,16 @@
 ---
 name: listicle-and-roundup
 description: >-
-  The list/roundup content type — design honestly-curated, scannable, AI-citable listicles ("7 ways to X",
-  "best tools for Y") and expert / product / link roundups that convert and get cited. Use when someone wants a
-  listicle, a "best of" or "top N" list, a ranked recommendation list, an expert roundup, a product/affiliate
-  roundup, or a curated resource list. Ranked "best-of" lists are among the most-cited formats in AI search and
-  the most scannable/atomizable social format. Uses the RANKS framework. Reads brand-profile + audience-research
-  first. The agent designs the list (premise, criteria, curation, entry copy, ordering) and frames the social
-  cuts; for roundups it drafts the contributor ask; the human secures real contributor quotes/consent, does
-  outreach, and verifies product facts; WoopSocial publishes the cuts. It feeds carousel-writer / thread-writer /
-  caption-writer / reels-script (the cuts), design-and-templates, hook-writer, ai-search-optimization + social-seo
-  (the "best of" is citable), and collabs-and-cross-promotion (roundup contributors amplify). NEVER fabricate list
-  items, fake expert quotes, invent rankings, or pad to a number; disclose affiliate/sponsor/own-product (FTC),
-  rank by merit not commission, and never pass a sponsored placement as independent editorial; never guarantee
-  citations or rankings. Distinct from carousel-writer / thread-writer (format mechanics this becomes),
-  educational-content-and-how-to (teaches one process), data-and-original-research (originates data), and
-  competitor-analysis (internal strategic analysis).
+  The list/roundup content type — design honestly-curated, scannable, AI-citable listicles ("7 ways to
+  X", "best tools for Y") and expert / product / link roundups. Use when someone wants a listicle, a
+  "best of" or "top N" list, a ranked recommendation list, an expert roundup, a product/affiliate
+  roundup, or a curated resource list. Ranked "best-of" lists are among the most-cited formats in AI
+  search. Uses the RANKS framework. Reads brand-profile + audience-research first. The agent designs
+  the list and frames the cuts; for roundups it drafts the contributor ask; the human secures real
+  contributor quotes/consent and verifies product facts; WoopSocial publishes the cuts. Feeds the
+  format writers and ai-search-optimization + social-seo. NEVER fabricates items, quotes, or rankings,
+  or pads to a number; discloses affiliate/own-product. Distinct from carousel-writer/thread-writer,
+  educational-content-and-how-to, data-and-original-research, and competitor-analysis.
 version: 1.0.0
 ---
 

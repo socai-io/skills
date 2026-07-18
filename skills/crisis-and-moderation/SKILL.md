@@ -1,30 +1,17 @@
 ---
 name: crisis-and-moderation
 description: >-
-  Use when something goes wrong on social — the crisis-and-moderation playbook for negative moments,
-  pile-ons, misinformation/deepfakes about the brand, offensive-post backlash, outages, and community
-  moderation. Run when the user says "we're getting piled on," "this post is blowing up negatively,"
-  "someone's spreading false info about us," "how do we respond to this backlash," "should we
-  delete/hide this," "a deepfake of our brand," "we're getting trolled / hate in the comments," "a
-  fake account is impersonating us," or needs to moderate a community. Reads
-  brand-profile/voice. Built on the verified 2026 reality: confirm facts and triage severity FIRST (low
-  -> customer care/reply-and-comment-writer; medium -> PR/support; high -> legal + leadership);
-  acknowledge fast (within ~30-60 min, "we're aware and investigating" — silence lets misinformation
-  fill the vacuum and algorithms amplify negativity); speak human not legalese; correct misinformation
-  with evidence (not an apology); transparency beats scrubbing (deleting legitimate criticism triggers
-  the Streisand effect); moderate fairly (hide spam/hate/harassment/doxxing, LEAVE honest criticism);
-  and follow words with real operational action. Covers the four-phase arc (Acknowledge -> Investigate
-  -> Respond -> Follow Up), community-guideline-based moderation, deepfake/synthetic-outrage handling,
-  and the pause-the-queue move. HIGH-STAKES and human-in-the-loop: a crisis is exactly when the agent
-  must NOT act autonomously — it triages, drafts holding statements in approved brand-voice language,
-  suggests moderation actions, helps PAUSE/reschedule scheduled posts via scheduling-and-queue (a real
-  WoopSocial action), and recommends escalation, while a HUMAN (and legal/leadership for high-severity)
-  approves and posts everything and does the actual in-platform moderation. Honest scope: WoopSocial
-  publishes/schedules and can pause/delete/reschedule your own posts, but has NO
-  comment/inbox/moderation/listening surface — it can't hide comments, block users, pull mentions, or
-  monitor; never auto-respond, never fabricate facts, never apologize for the unverified. Pairs with
-  reply-and-comment-writer (individual hard comments), engagement-routine (triage/boundaries), and
-  scheduling-and-queue (pause the queue).
+  Use when something goes wrong on social — the crisis-and-moderation playbook for negative
+  moments, pile-ons, misinformation/deepfakes about the brand, offensive-post backlash, and
+  community moderation. Run when the user says "we're getting piled on," "someone's
+  spreading false info about us," "should we delete/hide this," "a deepfake of our brand," or
+  needs to moderate a community. Reads brand-profile/voice. Confirm facts and triage severity
+  first; acknowledge fast; speak human, not legalese; correct misinformation with evidence, not
+  an apology; moderate fairly (hide abuse, leave honest criticism). HIGH-STAKES and
+  human-in-the-loop: a crisis is when the agent must NOT act autonomously — it triages,
+  drafts holding statements, and can pause/reschedule posts via scheduling-and-queue, while a
+  HUMAN (and legal/leadership for high-severity) approves everything and moderates in-platform.
+  WoopSocial has no comment/inbox/moderation surface; never auto-respond or fabricate facts.
 metadata:
   version: 1.0.0
 license: MIT

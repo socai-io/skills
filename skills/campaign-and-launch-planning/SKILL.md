@@ -1,17 +1,17 @@
 ---
 name: campaign-and-launch-planning
 description: >-
-  Plan and orchestrate a product launch or social media campaign end to end — the multi-week arc, channel by channel. Use when someone wants to plan a launch, product drop, campaign,
-  big announcement, waitlist/pre-launch push, or coordinated multi-platform moment. Plans a time-boxed
-  campaign as ONE story across three phases (tease -> launch -> sustain) toward a single goal, and schedules
-  the coordinated social posts via WoopSocial. Uses the STORY framework. Reads brand-profile + goals-and-kpis
-  first. Pre-launch builds anticipation (waitlist/referral/hub/BTS); launch day concentrates a coordinated
-  cross-platform push behind one CTA with credible urgency; post-launch reinforces with proof and measures.
-  WoopSocial schedules + publishes the social posts on the timeline; the waitlist/landing-page/hub, email
-  sequence (an ESP), checkout/sale, paid ads, press/creator outreach, and livestream are external/native, and
-  conversion/ROI come from native analytics + the store (never fabricated). Urgency must be credible (no fake
-  countdowns/scarcity). Distinct from content-calendar (the ongoing always-on cadence) and goals-and-kpis
-  (the targets a campaign serves).
+  Plan and orchestrate a product launch or social media campaign end to end — the multi-week arc,
+  channel by channel. Use when someone wants to plan a launch, product drop, campaign, big
+  announcement, waitlist/pre-launch push, or coordinated multi-platform moment. Plans a time-boxed
+  campaign as ONE story across three phases (tease -> launch -> sustain) toward a single goal, and
+  schedules the coordinated social posts via WoopSocial. Uses the STORY framework. Reads
+  brand-profile + goals-and-kpis first. WoopSocial schedules + publishes the social posts on the
+  timeline; the waitlist/hub, email sequence, checkout, paid ads, press/creator outreach, and
+  livestream are external/native, and conversion/ROI come from native analytics + the store (never
+  fabricated). Urgency must be credible (no fake countdowns/scarcity). Distinct from
+  content-calendar (the ongoing always-on cadence) and goals-and-kpis (the targets a campaign
+  serves).
 version: 1.0.0
 ---
 

@@ -8,7 +8,7 @@ cd "$(dirname "$0")/.."
 FAIL=0
 err() { echo "  ✗ $1"; FAIL=1; }
 
-echo "1/7 Skill structure (SKILL.md + references/ + evals/evals.json per skill)"
+echo "1/8 Skill structure (SKILL.md + references/ + evals/evals.json per skill)"
 for d in skills/*/; do
   n=$(basename "$d")
   [ -f "$d/SKILL.md" ] || err "$n: missing SKILL.md"
@@ -16,7 +16,7 @@ for d in skills/*/; do
   [ -f "$d/evals/evals.json" ] || err "$n: missing evals/evals.json"
 done
 
-echo "2/7 Frontmatter (name matches directory, description present)"
+echo "2/8 Frontmatter (name matches directory, description present)"
 for d in skills/*/; do
   n=$(basename "$d")
   fm=$(awk '/^name:/{print $2; exit}' "$d/SKILL.md" 2>/dev/null)
@@ -24,13 +24,13 @@ for d in skills/*/; do
   grep -q '^description:' "$d/SKILL.md" || err "$n: missing description"
 done
 
-echo "3/7 Evals are valid JSON"
+echo "3/8 Evals are valid JSON"
 for f in skills/*/evals/evals.json; do
   python3 -c "import json,sys; json.load(open(sys.argv[1]))" "$f" 2>/dev/null \
     || err "$f: invalid JSON"
 done
 
-echo "4/7 Cross-references resolve (every \`skill-name\` mention is a real skill)"
+echo "4/8 Cross-references resolve (every \`skill-name\` mention is a real skill)"
 python3 - <<'EOF' || FAIL=1
 import os, re, sys
 # Backticked kebab-case terms that are NOT skill names (API fields, model ids, regions, packages).
@@ -52,7 +52,27 @@ if bad:
     print("\n".join(sorted(set(bad)))); sys.exit(1)
 EOF
 
-echo "5/7 Plugin manifests (valid JSON, versions in sync)"
+echo "5/8 Description length (Agent Skills spec: max 1024 chars — claude.ai uploads enforce this)"
+python3 - <<'EOF' || FAIL=1
+import os, re, sys
+bad = []
+for d in sorted(os.listdir("skills")):
+    p = f"skills/{d}/SKILL.md"
+    if not os.path.isfile(p): continue
+    text = open(p, encoding="utf-8").read()
+    m = re.search(r'^description:\s*>-?\n((?:  .+\n)+)', text, re.M)
+    if m:
+        desc = " ".join(l.strip() for l in m.group(1).splitlines())
+    else:
+        m2 = re.search(r'^description:\s*(.+)$', text, re.M)
+        desc = m2.group(1) if m2 else ""
+    if len(desc) > 1024:
+        bad.append(f"  ✗ {d}: description is {len(desc)} chars (max 1024)")
+if bad:
+    print("\n".join(bad)); sys.exit(1)
+EOF
+
+echo "6/8 Plugin manifests (valid JSON, versions in sync)"
 python3 - <<'EOF' || FAIL=1
 import json, sys
 try:
@@ -65,7 +85,7 @@ if p["version"] != m["plugins"][0]["version"]:
           " — plugin users won't see updates until these match"); sys.exit(1)
 EOF
 
-echo "6/7 Pack manifest (every pack skill exists; JSON valid)"
+echo "7/8 Pack manifest (every pack skill exists; JSON valid)"
 python3 - <<'EOF' || FAIL=1
 import json, os, sys
 m = json.load(open("scripts/packs.json"))
@@ -77,7 +97,7 @@ for p in m["packs"]:
 if bad: print("\n".join(bad)); sys.exit(1)
 EOF
 
-echo "7/7 Banned patterns (claims the repo must never make)"
+echo "8/8 Banned patterns (claims the repo must never make)"
 # WoopSocial has no analytics surface; skills must not AFFIRM it does.
 # Negations ("no/not/without/never ... WoopSocial analytics") are the correct house phrasing.
 # Whitespace is collapsed first so negations split across wrapped lines are still recognized.

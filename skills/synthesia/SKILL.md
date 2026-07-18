@@ -1,23 +1,17 @@
 ---
 name: synthesia
 description: >-
-  The Synthesia craft skill — produce avatar video (training, onboarding, explainers, localized series, faceless
-  educational content) with the consent-first architecture and honest fit boundaries. Use when someone wants to
-  make videos with Synthesia/AI avatars, create a personal avatar/digital twin, localize one video into many
-  languages (1-click translation, AI dubbing), build training/L&D video at scale, use Video Agents or the AI
-  Playground, pick a Synthesia plan, or asks whether an avatar should replace them on camera. Uses the HUMAN
-  framework (Have a reason for an avatar, Use consented likeness only, Make the script spoken-word, Assemble
-  scenes + localize, Note the disclosure + publish). Reads the content skill + brand-profile + voice-builder +
-  design-and-templates first. The agent scripts and plans (API where connected, Creator+); the HUMAN approves
-  every video; WoopSocial publishes the finished file (it does not generate avatars). The spines: the fit test
-  (avatars win at scale/localization/training and LOSE to a real face for trust-led content — route to
-  talking-head-and-piece-to-camera); consent-first likeness (personal avatars need a live consent recording; no
-  celebrities/competitors; impersonation prohibited); the script is most of avatar quality (spoken-word; LOCK
-  copy before generating — edits force full ~8-12-min re-renders off the minute cap); disclosure always (YouTube/
-  TikTok AI labels; EU AI Act). NEVER impersonate, fake endorsements, or skip disclosure; minutes don't roll
-  over; moderation over-flags regulated topics (12-24h delays). Distinct from heygen (creator/social lane),
-  talking-head-and-piece-to-camera (the real human), ai-video/luma (cinematic footage), ai-voiceover (voice
-  only), and descript (editing recordings). Ships with tools/integrations/synthesia.md.
+  The Synthesia craft skill — produce avatar video (training, onboarding, explainers, localized
+  series, faceless educational content) with the consent-first architecture and honest fit
+  boundaries. Use when someone wants to make videos with Synthesia/AI avatars, create a personal
+  avatar/digital twin, localize one video into many languages, build training/L&D video at scale,
+  or asks whether an avatar should replace them on camera. Uses the HUMAN framework. Reads the
+  content skill + brand-profile + voice-builder first. The agent scripts and plans (API where
+  connected); the HUMAN approves every video; WoopSocial publishes. Spines: the fit test (avatars
+  win at scale/localization/training, lose to a real face for trust-led content); consent-first
+  likeness; the script is most of avatar quality — lock copy before generating. Never impersonate,
+  fake endorsements, or skip AI-disclosure. Distinct from heygen, talking-head-and-piece-to-camera,
+  ai-video/luma, ai-voiceover, and descript.
 version: 1.0.0
 ---
 

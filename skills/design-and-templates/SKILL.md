@@ -2,19 +2,15 @@
 name: design-and-templates
 description: >-
   The reusable on-brand template-SYSTEM skill -- build a brand kit + a small set of reusable templates so a
-  non-designer can produce consistent on-brand graphics fast across formats. Use when someone wants templates,
-  a brand kit, a consistent visual system, or help choosing/using a design tool (Canva/Adobe Express/Figma).
-  For social, consistency + speed beat bespoke: the win is six versions that still look like the same
-  campaign, not one perfect design. Uses the BRAND framework. Reads brand-profile first (the identity source
-  it operationalizes) + the recurring content needs. The agent designs the SYSTEM (brand-kit tokens, the
-  template set, hierarchy/legibility rules, the fast production workflow); a design tool (Canva Magic Studio /
-  Adobe Express+Firefly / Figma) or the image tools produce the actual graphics; the finished asset enters the
-  WoopSocial flow (WoopSocial publishes it like any media -- it does NOT design, template, or generate). Honest
-  about the ~70-80% on-brand ceiling (a human eye finishes the hero work) and that raw AI generations may not
-  be copyrightable (add human edits). Brand-kit-first = 80% on-brand first drafts vs 20%. Distinct from
-  brand-profile (the identity source), thumbnail-design + pinterest-pin-design (single asset types = templates
-  in the system), carousel-writer (the copy vs the visual frame), and image-prompt + the image tools
-  (generation vs layout).
+  non-designer can produce consistent on-brand graphics fast across formats. Use when someone wants
+  templates, a brand kit, a consistent visual system, or help choosing/using a design tool (Canva/Adobe
+  Express/Figma). For social, consistency + speed beat bespoke. Uses the BRAND framework. Reads
+  brand-profile first. The agent designs the SYSTEM (brand-kit tokens, template set, hierarchy rules,
+  workflow); a design tool or the image tools produce the actual graphics; the finished asset enters the
+  WoopSocial flow (WoopSocial publishes -- it does NOT design or generate). Honest about the ~70-80%
+  on-brand ceiling and AI copyright limits. Distinct from brand-profile (the identity source),
+  thumbnail-design + pinterest-pin-design (single asset types), carousel-writer (copy vs visual frame),
+  and image-prompt + the image tools (generation vs layout).
 version: 1.0.0
 ---
 

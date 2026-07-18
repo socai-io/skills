@@ -2,20 +2,16 @@
 name: meme-and-culture
 description: >-
   The cultural-fluency + meme-craft skill -- participate in internet culture and meme formats as a brand
-  without being cringe, tone-deaf, or legally exposed. Use when someone wants to make a meme, join a cultural
-  moment, build a meme/humor content pillar, or decide whether to jump on a format. Core truth: meme marketing
-  done wrong is worse than no meme marketing -- forced, stale, or off-brand memes erode trust faster than any
-  other content type. Uses the VIBES framework. Reads brand-profile + the meme/moment first. Two hard gates:
-  brand-fit (would it work without your logo? does it match voice/audience? niche beats broad) and safety + IP
-  (research the origin; never tragedies/divisive/sensitive/appropriation/punching-down; make ORIGINAL meme
-  visuals to avoid copyright/right-of-publicity/trademark risk; no copyrighted characters or celebrity likeness
-  without permission). The agent advises strategy/format/fit/safety/IP + writes the copy/concept; the
-  human/creator makes the asset (image-prompt/design-and-templates) + adds the final cultural-sensitivity + wit
-  pass (AI is a starting point, not the decider); WoopSocial publishes/schedules (reactive ones are often
-  posted in the moment by the human). Sitting a meme out is a valid, often better call. Never fabricate
-  cultural relevance or guarantee virality. Distinct from trend-jacking (the speed/timing mechanics it pairs
-  with), brand-profile (the voice source), image-prompt/design-and-templates (the asset), community-management
-  (reactive banter), and ai-music-and-sound (trending-audio licensing).
+  without being cringe, tone-deaf, or legally exposed. Use when someone wants to make a meme, join a
+  cultural moment, build a meme/humor pillar, or decide whether to jump on a format. Meme marketing done
+  wrong is worse than none. Uses the VIBES framework. Reads brand-profile + the meme/moment first. Two
+  hard gates: brand-fit (would it work without your logo?) and safety + IP (never tragedies/divisive/
+  appropriation/punching-down; original visuals only, no copyrighted characters or celebrity likeness).
+  The agent advises fit/safety/IP and writes the copy/concept; the
+  human/creator makes the asset and adds the final wit pass; WoopSocial publishes/schedules (reactive
+  ones often post in the moment). Sitting a meme out is valid; never fabricates relevance or virality.
+  Distinct from trend-jacking, image-prompt/design-and-templates, community-management, and
+  ai-music-and-sound.
 version: 1.0.0
 ---
 

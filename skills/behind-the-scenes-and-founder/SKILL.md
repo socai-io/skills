@@ -1,24 +1,18 @@
 ---
 name: behind-the-scenes-and-founder
 description: >-
-  The transparency content type — turn what's actually happening inside the business (the process, the decisions,
-  the numbers, the mistakes, the people) into founder/personal-brand content that builds trust: build-in-public
-  updates, founder story, how-it's-made/process content, team culture, honest struggle posts, day-in-the-life,
-  and transparency plays (pricing, revenue, lessons). Use when someone wants behind the scenes, build in public,
-  founder content, a personal brand post, a day in the life, or to share our process. People follow people —
-  founder-voice content out-performs brand-page content because it's specific, stakes-bearing, and true. Uses the
-  REVEAL framework. Reads brand-profile + voice-builder first. The agent finds the real moment, sharpens the
-  specifics + stakes, checks the transparency tier (what to share vs never: customer data, team conflicts, legal),
-  and frames it in founder- or brand-voice; the human owns what gets revealed and lives with it permanently;
-  WoopSocial publishes. It supplies true lived material to storytelling-and-narrative (the craft), contrarian-and-
-  opinion (evidence under a take), before-after-and-transformation (the founder's own journey), and social-proof-
-  and-testimonials; it feeds hook-writer and the format writers (caption-writer, linkedin-post-writer, short-form-
-  video-script, story-writer, thread-writer). NEVER fabricate a struggle/story, perform vulnerability for reach,
-  humble-brag a "mistake", expose customer data, air team conflicts or personnel issues, discuss active legal
-  matters, or share security/credential details; the internet is permanent; regulated industries need compliance
-  review; never guarantee that transparency converts. Distinct from contrarian-and-opinion (argued position vs
-  personal story), storytelling-and-narrative (the narrative craft this supplies material to), social-proof
-  (customer proof vs your own inside view), and the format writers (mechanics this feeds).
+  The transparency content type — turn what's actually happening inside the business into
+  founder/personal-brand content that builds trust: build-in-public updates, founder story,
+  how-it's-made content, team culture, and honest struggle posts. Use when someone wants behind
+  the scenes, build in public, founder content, a
+  personal brand post, or a day in the life. People follow people — founder-voice content
+  out-performs brand-page content because it's specific and true. Uses the
+  REVEAL framework. Reads brand-profile + voice-builder first. The agent finds the real moment,
+  sharpens specifics + stakes, checks the transparency tier (share vs never: customer data, team
+  conflicts, legal), and frames it in founder-voice; the human owns the reveal permanently;
+  WoopSocial publishes. Never fabricates a struggle, performs vulnerability for reach, or
+  exposes customer/team/legal matters. Distinct from contrarian-and-opinion,
+  storytelling-and-narrative, social-proof, and the format writers.
 version: 1.0.0
 ---
 

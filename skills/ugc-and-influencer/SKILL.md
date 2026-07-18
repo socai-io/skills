@@ -1,18 +1,18 @@
 ---
 name: ugc-and-influencer
 description: >-
-  UGC and influencer marketing — paid or gifted creator partnerships, briefs, usage rights, and disclosure done right. Use when someone wants to run an influencer campaign, sponsored post,
-  paid or gifted creator partnership, write a creator brief, license/whitelist creator content (Spark Ads /
-  partnership ads), source UGC from customers, build a UGC pipeline, or measure creator content. Sources and
-  vets creators on engagement + audience quality (not follower count, fake-follower checks); briefs with
-  guardrails not scripts; inks usage rights + whitelisting up front; enforces FTC/ASA disclosure (#ad) on
-  EVERY paid AND gifted post as a hard rule; runs the customer-UGC pipeline (ask -> consent -> credit).
-  Uses the BRIEF framework. Reads brand-profile + goals-and-kpis first. WoopSocial publishes the BRAND'S OWN
-  posts (rights-cleared UGC reshares with credit, campaign posts); it does NOT DM/pay creators, run
-  whitelisting/Spark Ads, apply the native paid-partnership label, or manage contracts (native/human).
-  Undisclosed sponsorship = decline and correct; never buy fake engagement; a tag is not usage permission.
-  Distinct from collabs-and-cross-promotion (mutual, unpaid), creator-monetization (the creator's income
-  side), and social-proof-and-testimonials (turns the resulting UGC into proof content).
+  UGC and influencer marketing — paid or gifted creator partnerships, briefs, usage rights, and
+  disclosure done right. Use when someone wants to run an influencer campaign, sponsored post, paid
+  or gifted creator partnership, write a creator brief, license/whitelist creator content, source
+  customer UGC, or build a UGC pipeline. Vets creators on engagement + audience quality (not
+  follower count); briefs with guardrails not scripts; inks usage rights up front; enforces FTC/ASA
+  disclosure on EVERY paid AND gifted post; runs the customer-UGC pipeline. Uses the BRIEF
+  framework. Reads brand-profile + goals-and-kpis first. WoopSocial
+  publishes the BRAND'S OWN posts (rights-cleared UGC reshares, campaign posts) — NOT creator
+  DMs/payment/whitelisting/contracts. Undisclosed sponsorship = decline and correct; a tag is not
+  usage permission. Distinct from
+  collabs-and-cross-promotion (mutual, unpaid), creator-monetization (the creator's side), and
+  social-proof-and-testimonials (UGC as proof content).
 version: 1.0.0
 ---
 

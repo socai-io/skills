@@ -1,16 +1,15 @@
 ---
 name: youtube-publishing-and-metadata
 description: >-
-  The YouTube publish-metadata skill. Use when someone wants to "write a YouTube title/description," "set
-  tags/category/privacy," "optimize YouTube SEO/metadata," set made-for-kids, or publish a YouTube video
-  via WoopSocial. Writes the metadata (title, description+chapters, tags) and sets category/privacy/
-  madeForKids: YouTube is a search engine, so the title does two jobs (keyword + click), the description's
-  above-the-fold lines are weighted, the first tag is the exact primary keyword, and madeForKids is a
-  COPPA/FTC legal flag set truthfully. Uses the INDEX framework. Reads brand-profile + goals-and-kpis + the
-  script/video first. The VIDEO FILE + script are inputs (not WoopSocial); the THUMBNAIL and A/B title
-  testing are native YouTube Studio (no API field); WoopSocial publishes via the YouTube fields (description
-  = content.text, raw-bytes video upload); no update endpoint (edit = delete+recreate / Studio post-publish);
-  metrics never fabricated. Distinct from youtube-long-form/youtube-shorts (the script) and thumbnail-design.
+  The YouTube publish-metadata skill. Use when someone wants to "write a YouTube title/description,"
+  "set tags/category/privacy," "optimize YouTube SEO/metadata," set made-for-kids, or publish a
+  YouTube video via WoopSocial. Writes the metadata (title, description+chapters, tags) and sets
+  category/privacy/madeForKids — YouTube is a search engine, so metadata is the launchpad, and
+  madeForKids is a COPPA/FTC legal flag set truthfully. Uses the INDEX framework. Reads
+  brand-profile + goals-and-kpis + the script/video first. The video file + script are inputs (not
+  WoopSocial); the thumbnail and A/B title testing are native YouTube Studio; WoopSocial publishes
+  via the YouTube fields; metrics never fabricated. Distinct from youtube-long-form/youtube-shorts
+  (the script) and thumbnail-design (the thumbnail).
 version: 1.0.0
 ---
 

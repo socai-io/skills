@@ -1,22 +1,18 @@
 ---
 name: canva
 description: >-
-  The Canva craft skill — produce on-brand social graphics, carousels, quote cards, infographics, thumbnails, and
-  simple video at scale without a designer, and escape the recognizable "Canva look." Use when someone wants to
-  design in Canva, make social graphics, set up a Brand Kit, batch-produce graphics (Bulk Create), resize one
-  design for every platform (Magic Resize), use Canva's AI (Magic Studio, Dream Lab, Canva AI 2.0, Magic Layers,
-  Magic Write, Magic Switch), or asks why their posts look like a template. Uses the SCALE framework (Start from
-  the Brand Kit, Customize past the template, Automate the repeatable, Layer in AI but keep it editable, Export
-  right + hand to publish). Reads brand-profile + design-and-templates + voice-builder first. The agent designs
-  specs/copy/data and — where the Canva MCP / AI Connector or Connect APIs are connected — can create, resize, and
-  adapt designs directly (Brand-Kit-aware); otherwise it writes exact steps and the human executes; the human
-  approves every visual; the finished export publishes via WoopSocial (Canva renders; WoopSocial publishes;
-  WoopSocial does not generate or edit designs). NEVER strip watermarks, rip premium templates, impersonate
-  another brand's look/logo, use real-person likeness without permission, or fabricate credits/capabilities
-  (verify in-app); AI-disclosure for generated visuals; accessibility floor (contrast, sizes, ≤2 fonts, alt
-  text). Distinct from design-and-templates (the brand system this executes), image-prompt + the image tools
-  (dedicated generation this drops into a workflow), ai-image-editing (the edit router), and capcut/descript
-  (serious video editing). Ships with tools/integrations/canva.md.
+  The Canva craft skill — produce on-brand social graphics, carousels, quote cards, infographics,
+  and thumbnails at scale without a designer, and escape the "Canva look." Use when
+  someone wants to design in Canva, make social graphics, set up a Brand Kit, batch-produce
+  graphics (Bulk Create), resize one design for every platform (Magic Resize), use Canva's AI
+  (Magic Studio), or asks why their posts look like a template. Uses the
+  SCALE framework. Reads brand-profile + design-and-templates + voice-builder first. The agent
+  specs, and creates designs directly where the Canva MCP/Connect APIs are connected; the human
+  approves every visual; the export publishes via WoopSocial. Never strips watermarks, impersonates
+  another brand, or uses unpermitted likeness;
+  AI-disclosure + accessibility floor apply. Distinct from design-and-templates (the brand system
+  this executes), image-prompt + the image tools (dedicated generation), ai-image-editing (the edit
+  router), and capcut/descript (video editing).
 version: 1.0.0
 ---
 

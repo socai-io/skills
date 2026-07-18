@@ -1,20 +1,16 @@
 ---
 name: talking-head-and-piece-to-camera
 description: >-
-  The on-camera delivery craft — helping a real human film themselves talking to a lens and look like themselves
-  doing it. Use when someone wants to make a "talking head video" or "piece to camera," says "film myself," "I
-  look/sound stiff on camera," "look natural on camera," asks about a teleprompter, framing, lighting, audio,
-  retakes, or wants to batch-film a week of videos in one session. Uses the TAKES framework (Tape the setup,
-  Anchor the map not the lines, Kick the first 3 seconds, Embrace the retake rules, Stack the batch). Phone-first:
-  an eye-level phone, a window, and a $20 mic beat a cinema camera used badly — gear is almost never the
-  bottleneck. Reads brand-profile + voice-builder first and takes its script from short-form-video-script (pair:
-  that writes it, this delivers it). The agent coaches setup + delivery, formats prompter/beat-map scripts, and
-  plans batch days; the HUMAN films and picks the take (the agent cannot see footage or judge a take); WoopSocial
-  publishes the finished file. Camera-shy or can't film? Route honestly to heygen / synthesia (avatars) or
-  faceless formats — never shame the human onto camera. NEVER fabricate "that take looks great," prescribe
-  gear-upgrades as the fix, or promise that polish beats presence. Distinct from short-form-video-script (the
-  script this delivers), scripting-and-storyboarding (the shoot plan), heygen/synthesia (synthetic presenters),
-  and captions-and-clipping / capcut / descript (the edit after the shoot).
+  The on-camera delivery craft — helping a real human film themselves talking to a lens and look like
+  themselves doing it. Use when someone wants a "talking head video" or "piece to camera," says "film
+  myself" or "I look stiff on camera," asks about a teleprompter, framing, lighting, audio, or retakes,
+  or wants to batch-film videos. Uses the TAKES framework. Phone-first: gear is almost never the
+  bottleneck. Reads brand-profile + voice-builder first; takes its script from short-form-video-script
+  (that writes it, this delivers it). The agent coaches setup + delivery, formats prompter/beat-map
+  scripts, and plans batch days; the HUMAN films and picks the take (the agent cannot see footage);
+  WoopSocial publishes the finished file. Camera-shy? Route honestly to heygen/synthesia or faceless
+  formats. Never fabricates "that take looks great." Distinct from scripting-and-storyboarding (the
+  shoot plan), heygen/synthesia (avatars), and captions-and-clipping/capcut/descript (the edit).
 version: 1.0.0
 ---
 

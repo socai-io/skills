@@ -1,16 +1,17 @@
 ---
 name: experimentation-and-ab-testing
 description: >-
-  A/B testing and experimentation for social media content — evidence over opinion, at honest organic-scale rigor. Use when someone wants to "A/B test" or "split test" content,
-  "test which version/hook/time/caption/thumbnail works," "set up an experiment," "what should I test,"
-  or to settle a content debate with evidence instead of opinion. Designs disciplined organic tests:
-  one variable, controlled context, a decision rule set BEFORE publishing, enough duration and
+  A/B testing and experimentation for social media content — evidence over opinion, at honest
+  organic-scale rigor. Use when someone wants to "A/B test" or "split test" content, "test which
+  version/hook/time/caption/thumbnail works," "set up an experiment," "what should I test," or to
+  settle a content debate with evidence instead of opinion. Designs disciplined organic tests: one
+  variable, controlled context, a decision rule set BEFORE publishing, enough duration and
   repetitions to separate signal from noise. Uses the TEST framework. Reads brand-profile +
-  goals-and-kpis first. It DESIGNS the test and drafts variants; WoopSocial schedules them as controlled
-  sequential posts (exception: YouTube's native Test & Compare audience-splits up to 3 titles/thumbnails
-  on long-form); the result is read from native analytics (analytics-and-reporting). Organic can't
-  reach true statistical significance, so it leans on effect-size (~20%+) and 3-5 repetitions; nothing
-  is fabricated or p-hacked. Distinct from analytics-and-reporting (measures) and goals-and-kpis (sets targets).
+  goals-and-kpis first. It DESIGNS the test and drafts variants; WoopSocial schedules them as
+  controlled sequential posts (exception: YouTube's native Test & Compare); the result is read from
+  native analytics via analytics-and-reporting. Organic can't reach true statistical significance;
+  nothing is fabricated or p-hacked. Distinct from analytics-and-reporting (measures) and
+  goals-and-kpis (sets targets).
 version: 1.0.0
 ---
 

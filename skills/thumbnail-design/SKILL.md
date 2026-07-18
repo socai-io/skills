@@ -1,17 +1,17 @@
 ---
 name: thumbnail-design
 description: >-
-  Design YouTube video thumbnails that earn the click — mobile-legible, one focal point, honest. Use when someone wants to design a YouTube thumbnail, improve CTR, brief
-  a thumbnail, choose thumbnail text, or plan thumbnail A/B testing. Designs and briefs high-CTR thumbnails
-  and writes the A/B test plan: a thumbnail is a promise, not a poster -- designed as a unit with the title
-  (show vs tell, never repeating), built on one focal point, genuine emotion, high contrast, and 0-4 bold
-  words, and legible on mobile at ~168x94 px. YouTube's native Test & Compare picks the winner by watch-time
-  share (not CTR), so misleading thumbnails lose. Uses the CLICK framework. Reads brand-profile + the video/
-  title first. A HUMAN or an image/design tool (nano-banana/ideogram/Canva/designer) creates the final raster;
-  the YouTube custom thumbnail is uploaded NATIVELY in Studio (WoopSocial has no thumbnail field) and Test &
-  Compare is native; TikTok/IG-Reel covers use WoopSocial's cover field via those format skills. No
-  clickbait, no unconsented real-person/deepfake faces, CTR never fabricated. Distinct from
-  youtube-publishing-and-metadata (the metadata) and nano-banana/ideogram (which generate the raster this briefs).
+  Design YouTube video thumbnails that earn the click — mobile-legible, one focal point, honest.
+  Use when someone wants to design a YouTube thumbnail, improve CTR, brief a thumbnail, choose
+  thumbnail text, or plan thumbnail A/B testing. Designs and briefs high-CTR thumbnails and writes
+  the A/B test plan: a thumbnail is a promise, not a poster, designed as a unit with the title and
+  legible on mobile. Uses the CLICK framework. Reads brand-profile + the video/title first. A HUMAN
+  or an image/design tool (nano-banana/ideogram/Canva/designer) creates the final raster; the
+  YouTube custom thumbnail is uploaded NATIVELY in Studio (WoopSocial has no thumbnail field) and
+  Test & Compare is native; TikTok/IG-Reel covers use WoopSocial's cover field via those format
+  skills. No clickbait, no unconsented real-person/deepfake faces, CTR never fabricated. Distinct
+  from youtube-publishing-and-metadata (the metadata) and nano-banana/ideogram (which generate the
+  raster this briefs).
 version: 1.0.0
 ---
 

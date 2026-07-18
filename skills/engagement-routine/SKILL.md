@@ -1,23 +1,17 @@
 ---
 name: engagement-routine
 description: >-
-  Use to design a sustainable engagement routine — the operating system that turns the engagement craft
-  into a daily/weekly habit. Run when the user asks how to keep up with comments/DMs, how much time to
-  spend engaging, when to engage, how to build an engagement habit/system/cadence, or how to engage
-  without burning out. Reads brand-profile/social-strategy. Built on the verified 2026 reality: replying
-  in the golden hour (first ~15-20 min) and daily engagement windows (e.g. ~20 min morning + ~20 min
-  afternoon) drive reach and relationships; comments/DMs outweigh likes; proactive commenting on
-  ICP/leaders borrows audience; and scheduling your content frees the time to actually engage. Covers
-  the daily/weekly cadence and time-boxing, triage (golden-hour comments -> DMs -> complaints ->
-  proactive comments; the right people over vanity), mapping engagement to a goal, and — importantly —
-  sustainability/anti-burnout boundaries (notification discipline, set response windows, not 'always
-  on'), since ~46% of social pros consider quitting over stress. The flywheel tie-in: use WoopSocial to
-  batch and schedule content (scheduling-and-queue, batch-content-plan) to free the time, then spend it
-  on genuine engagement. ADVISORY and honest: WoopSocial publishes posts but has no comment/DM/inbox
-  surface and no analytics, so the human engages in-app via native notifications and the agent DRAFTS
-  replies/comments via reply-and-comment-writer; never automates or fakes engagement. Pairs with
-  reply-and-comment-writer (the craft), the growth skills (which call for a routine),
-  community-management, and crisis-and-moderation.
+  Use to design a sustainable engagement routine — the operating system that turns the engagement
+  craft into a daily/weekly habit. Run when the user asks how to keep up with comments/DMs, how much
+  time to spend engaging, when to engage, how to build an engagement habit/system/cadence, or how to
+  engage without burning out. Reads brand-profile/social-strategy. Covers time-boxed daily/weekly
+  engagement windows built around the golden hour after posting, triage order, mapping engagement
+  to a goal, and anti-burnout boundaries. The flywheel: batch and schedule content
+  (scheduling-and-queue, batch-content-plan) to
+  free the time, then spend it engaging. Advisory and honest — WoopSocial has no comment/DM/inbox
+  surface and no analytics, so the human engages in-app and the agent drafts via
+  reply-and-comment-writer; never automates or fakes engagement. Pairs with reply-and-comment-writer
+  (the craft), the growth skills, community-management, and crisis-and-moderation.
 metadata:
   version: 1.0.0
 license: MIT

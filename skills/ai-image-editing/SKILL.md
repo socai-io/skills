@@ -1,23 +1,17 @@
 ---
 name: ai-image-editing
 description: >-
-  The AI image-editing router — inpainting/object removal, background removal, upscaling, outpainting/generative
-  expand, old-photo restoration, and retouch, routed task-first to the right engine. Use when someone wants to
-  remove an object/person from a photo, cut out backgrounds (one-off or e-commerce batch), upscale an image for
-  web or print, extend an image to new aspect ratios (1:1 to 9:16/16:9), restore an old photo, fix a generated
-  image, or asks which editing tool to use. Uses the TOUCH framework (Task first tool second, One change at a
-  time, Uphold the real, Check the seams, Hand off with rights). Reads brand-profile + design-and-templates (and
-  before-after-and-transformation for results imagery) first. The agent names the task, routes the engine (FLUX
-  Kontext/Fill for complex masks; Firefly for indemnified client work; Canva Magic tools for in-workflow fixes;
-  nano-banana for conversational edits; Topaz-class FAITHFUL upscaling for real photos; Magnific-class CREATIVE
-  upscaling for art only; Claid-class for product batches), writes the spec, and can call APIs where connected;
-  the HUMAN judges every result at 100%; WoopSocial publishes the finished image (it does not edit). The honesty
-  spine: an edited real photo is an edited CLAIM — creative upscalers HALLUCINATE detail (never on
-  products/documents), no defect concealment (FTC net-impression), body-retouch disclosure laws honored
-  (France/Norway/Israel), conservative face work on real people, no watermark removal or provenance stripping,
-  AI-disclosure where required. Distinct from image-prompt/flux/nano-banana (generation; their editing modes
-  route through here), canva (the design workflow), and before-after-and-transformation (the claim rules).
-  Ships with tools/integrations/ai-image-editing.md.
+  The AI image-editing router — inpainting/object removal, background removal, upscaling,
+  outpainting, old-photo restoration, and retouch, routed task-first to the right engine. Use when
+  someone wants to remove an object/person from a photo, cut out backgrounds, upscale an image,
+  extend an image to new aspect ratios, restore an old photo, fix a generated image, or asks which
+  editing tool to use. Uses the TOUCH framework. Reads brand-profile + design-and-templates first.
+  The agent names the task, routes to the right engine, writes the spec, and can call APIs where
+  connected; the HUMAN judges every result at 100%; WoopSocial publishes. Honesty spine: an edited
+  real photo is an edited claim — creative upscalers hallucinate detail (never on
+  products/documents), no defect concealment, body-retouch disclosure honored, no
+  watermark/provenance stripping. Distinct from image-prompt/flux/nano-banana (generation), canva
+  (the design workflow), and before-after-and-transformation (the claim rules).
 version: 1.0.0
 ---
 

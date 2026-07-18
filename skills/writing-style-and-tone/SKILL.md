@@ -1,24 +1,18 @@
 ---
 name: writing-style-and-tone
 description: >-
-  The writing-craft skill — style and tone as applied technique: rhythm, specificity, tone modulation, and the
-  edit passes that make writing read as unmistakably human. Use when someone's posts "sound like ChatGPT," a
-  draft needs a style edit, they ask how to write differently per platform or per moment (celebration vs crisis
-  vs sales) without losing the brand voice, their writing is grammatically perfect but exhausting, a manager
-  wants em dashes banned or detector scores chased, or any AI-assisted draft needs its mandatory human-quality
-  pass. Uses the STYLE framework (Sound like someone, Tune tone to the moment, Yank the dead weight, Let the
-  rhythm breathe, Edit against the tells intelligently). Reads voice-builder (the voice this applies) +
-  brand-profile + the piece's format skill first. The 2026 truths: 52% of consumers disengage on suspecting
-  AI and only 13% say they completely trust AI; the tell taxonomy is real (delve-class vocabulary —
-  44% of PubMed's all-time "delve" uses occurred in 2023-24 — "It's not X it's Y," forced rule-of-three, rigid
-  structure, fluff sentences) but must be applied as a CLUSTER with judgment: no single marker proves AI,
-  detectors misflag real writers (61.3% average false-positive rate on non-native-English essays in the
-  Stanford study), and the winning position is
-  substance so owned the question never arises — write for readers, never against detectors. Voice is identity
-  (constant); tone is register (flexes by moment via the tone map). The agent drafts and edits; the HUMAN
-  supplies lived specifics and final say; the agent NEVER invents anecdotes, failures, vulnerability, or staged
-  typos — authenticity cannot be counterfeited. Distinct from voice-builder (defines the voice), hook-writer
-  (the first line), the format skills (conventions), and content-research-and-sourcing (verifies the claims).
+  The writing-craft skill — style and tone as applied technique: rhythm, specificity, tone
+  modulation, and the edit passes that make writing read as human. Use when
+  someone's posts "sound like ChatGPT," a draft needs a style edit, they ask how to write
+  differently per platform or moment without losing the brand voice, writing is grammatically
+  perfect but exhausting, a manager wants em dashes banned or detector scores chased, or any
+  AI-assisted draft needs its mandatory quality pass. Uses the STYLE framework. Reads
+  voice-builder + brand-profile + the format skill first. Tells must be read as a cluster with
+  judgment — no single marker proves AI, and detectors misflag real writers; the winning move is
+  substance so owned the question never arises. Voice is identity; tone is register. The agent
+  drafts; the HUMAN supplies lived specifics and final say; never invents anecdotes or staged
+  typos. Distinct from voice-builder, hook-writer, the format skills, and
+  content-research-and-sourcing.
 version: 1.0.0
 ---
 

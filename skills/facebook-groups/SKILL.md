@@ -2,19 +2,15 @@
 name: facebook-groups
 description: >-
   The Facebook Groups strategy skill -- Groups as Facebook's real organic surface, deeper than what
-  facebook-strategy routes to community-management. Use when someone wants to build/grow/run a Facebook Group,
-  decide Group vs Page, or turn a community into leads. In 2026 Pages reach ~1.4-1.65% while Groups reach
-  40-50% of members per post (a 10-30x multiplier); Facebook deliberately favors Groups (MSI/community
-  engineering, not broadcasting). Uses the TRIBE framework. Reads brand-profile + goals-and-kpis first. The
-  agent designs the group strategy (niche, Private-Visible, membership questions, content calendar, growth
-  levers, moderation SOPs, value-first monetization) + drafts the group posts + drafts the Page/cross-channel
-  content that drives joins. CRUCIAL: WoopSocial does NOT post to Groups -- the FACEBOOK platform is the Page
-  only; WoopSocial publishes the Page + cross-channel content that funnels people to JOIN the group, while
-  in-group posting, admin, membership questions, moderation, and Group analytics are native/human (routed to
-  community-management + crisis-and-moderation). No bulk-poster automation/spam (ToS/ban risk), no fake
-  members/bots, value-first not promotion-first (no selling the first 30 days), respond don't post-and-ghost,
-  quality growth over invite blasts, metrics/revenue never fabricated. Distinct from facebook-strategy (the
-  Page/account play) and community-management (the cross-platform engagement routine).
+  facebook-strategy routes to community-management. Use when someone wants to build/grow/run a Facebook
+  Group, decide Group vs Page, or turn a community into leads. Groups reach 40-50% of members per post vs
+  ~1.5% for Pages; Facebook deliberately favors Groups. Uses the TRIBE framework. Reads brand-profile +
+  goals-and-kpis first. The agent designs the group strategy (niche, setup, content, growth, moderation,
+  value-first monetization) and drafts group posts + the join-funnel content. CRUCIAL: WoopSocial does
+  NOT post to Groups -- it publishes the Page + cross-channel content that funnels people to JOIN;
+  in-group posting, admin, moderation, and Group analytics stay native/human, routed to
+  community-management. No automation/spam or fake members; value-first, never fabricates metrics.
+  Distinct from facebook-strategy (the Page play) and community-management (the engagement routine).
 version: 1.0.0
 ---
 

@@ -1,22 +1,18 @@
 ---
 name: descript
 description: >-
-  The Descript craft skill — edit talk content (podcasts, interviews, talking-head video, courses, webinars) by
-  editing the transcript instead of the timeline. Use when someone wants to edit in Descript, edit a podcast or
-  interview, remove filler words/silences, clean up audio (Studio Sound), fix a flubbed word without re-recording
-  (Overdub), auto-cut between speakers (Automatic Multicam), turn one long recording into clips + show notes +
-  chapters, or asks about Descript's plans/credits/Underlord. Uses the WORDS framework (Write the edit, Overdub
-  with consent, Refine the sound, Dress the visuals, Ship the cuts) plus the interview rule: concision yes,
-  meaning-flips never. Reads the recording's content skill (podcast-and-audiograms / youtube-long-form) +
-  brand-profile/voice-builder + design-and-templates first. The agent plans the edit and — where Descript's 2026
-  API/MCP connection is available — can trigger Underlord actions programmatically; the HUMAN verifies by ear and
-  approves; WoopSocial publishes the finished exports (it does not edit media; podcast RSS hosting is separate).
-  The two spines: Overdub is consent-verified OWN-VOICE-ONLY (never clone a guest or public figure; disclose
-  synthetic speech where required), and the Sept 2025 pricing overhaul (media minutes + AI credits metering
-  formerly-unlimited features — bill-shock documented; verify tiers in-app, never quote blogs as fact). Distinct
-  from capcut (beat-synced visual short-form), captions-and-clipping/opus-clip (clip selection at scale),
-  ai-voiceover (dedicated TTS), and podcast-and-audiograms (the strategy this tool serves). Ships with
-  tools/integrations/descript.md.
+  The Descript craft skill — edit talk content (podcasts, interviews, talking-head video) by
+  editing the transcript instead of the timeline. Use when someone wants to edit in Descript, edit
+  a podcast or interview, remove filler words/silences, clean up audio (Studio Sound), fix a
+  flubbed word without re-recording (Overdub), auto-cut between speakers, turn one recording into
+  clips + show notes + chapters, or asks about Descript's plans, credits, or Underlord. Uses the
+  WORDS framework plus the interview rule: concision yes, meaning-flips never. Reads the
+  recording's content skill + brand-profile/voice-builder first. The agent plans the edit (API/MCP
+  where connected); the HUMAN verifies by ear and approves; WoopSocial publishes the exports.
+  Overdub is consent-verified own-voice-only; tiers/credits are verified in-app. Distinct from
+  capcut (visual
+  short-form), captions-and-clipping/opus-clip (clip selection at scale), ai-voiceover (dedicated
+  TTS), and podcast-and-audiograms (the strategy).
 version: 1.0.0
 ---
 

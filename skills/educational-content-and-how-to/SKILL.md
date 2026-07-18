@@ -1,23 +1,17 @@
 ---
 name: educational-content-and-how-to
 description: >-
-  The teach-to-grow content type -- pick a genuinely useful topic, teach ONE thing completely, structure it as
-  a clear lesson, keep it accurate, and route it to the right format. Use when someone wants to teach their
-  audience, make a how-to / tutorial / step-by-step / explainer / myth-buster, build authority content, or
-  earn saves. Teaching is the highest-trust, highest-save authority builder (saves + sends are top-weighted 2026
-  signals, far above likes, and educational/how-to content is the most reliable way to earn them). Uses the TEACH
-  framework. Reads
-  brand-profile + audience-research (their pain points/skill level) + content-pillars first. The agent targets
-  one teachable thing (flashcard not chapter), earns trust with accuracy (cite sources, stay within genuine
-  expertise, YMYL care + disclaimers), arranges the lesson (hook/cover -> context -> one step/idea per unit ->
-  recap -> specific CTA), carries it to the right format (carousel/tutorial video/thread/post), and harvests
-  saves + serializes. It feeds the format writers (carousel-writer, reels-script, tiktok-script, thread-writer,
-  caption-writer), hook-writer (the cover), the design/image tools (visuals), and lead-magnets/social-selling-
-  and-dm (comment-to-DM CTAs). WoopSocial publishes + schedules the series. Accuracy is non-negotiable (teaching
-  wrong info destroys authority; YMYL how-tos can cause real harm); cite sources; stay within real expertise;
-  never fabricate steps or stats; measure saves/sends, not likes. Distinct from carousel-writer (the format it
-  pairs with), reels-script/tiktok-script/thread-writer (other formats), storytelling-and-narrative (narrative
-  vs didactic), and content-pillars (which topics).
+  The teach-to-grow content type -- pick a genuinely useful topic, teach ONE thing completely,
+  structure it as a clear lesson, keep it accurate, and route it to the right format. Use when
+  someone wants to teach their audience, make a how-to / tutorial / step-by-step / explainer /
+  myth-buster, build authority content, or earn saves. Uses the TEACH framework. Reads
+  brand-profile + audience-research + content-pillars first. Feeds the format writers
+  (carousel-writer, reels-script, tiktok-script, thread-writer, caption-writer), hook-writer, the
+  design/image tools, and lead-magnets/social-selling-and-dm; WoopSocial publishes +
+  schedules the series. Accuracy is non-negotiable: cite sources, stay within real expertise, YMYL
+  care, never fabricate steps or stats; measure saves/sends, not likes. Distinct from
+  carousel-writer (the format it pairs with), reels-script/tiktok-script/thread-writer (other
+  formats), storytelling-and-narrative (narrative vs didactic), and content-pillars (which topics).
 version: 1.0.0
 ---
 

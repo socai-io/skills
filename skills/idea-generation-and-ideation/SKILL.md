@@ -1,23 +1,18 @@
 ---
 name: idea-generation-and-ideation
 description: >-
-  The idea-system craft — never run out of content ideas by running a system instead of waiting for inspiration.
-  Use when someone says they're out of ideas, stares at a blank calendar, asks where good content ideas come
-  from, wants an idea bank/backlog, feels their AI-generated ideas sound like everyone else's, thinks their
-  niche is "boring," or wants to validate a big idea before producing it. Uses the SPARK framework (Stock the
-  inputs, Produce in volume, Angle it to the brand, Rank + bank, Kick-test before production). Reads
-  brand-profile + social-strategy + content-pillars + audience-research first. The core 2026 truths: the audience
-  is the idea engine (comments/DMs/FAQs/polls clustered into themes — real signals outperform isolated
-  brainstorms); AI is an EXPANDER of real signals, never a discovery engine (foundation models are consensus
-  engines — generic prompts return the same median ideas every competitor gets; your inputs, constraints, taste,
-  and feedback loops are the edge); systems beat muses (friction-free capture, a weekly ideation block separate
-  from creation days, a 100+ scored bank on 3-5 pillars, monthly refresh); trends are a timing filter, not an
-  idea source; and expensive ideas earn a cheap probe first. The agent clusters/expands/scores; the HUMAN
-  supplies proprietary signals and makes every call; the bank lives in the user's tools; WoopSocial publishes
-  the eventual content, not ideas. NEVER reword competitor posts, invent audience questions, manufacture
-  urgency, or fabricate probe results. Distinct from social-strategy/content-pillars (define the pillars this
-  fills), audience-research (who they are), cross-platform-repurposing/content-recycling (transforming
-  existing content), and the format skills (where a chosen idea becomes content).
+  The idea-system craft — never run out of content ideas by running a system instead of waiting
+  for inspiration. Use when someone is out of ideas, stares at a blank calendar, asks where good
+  ideas come from, wants an idea bank/backlog, feels their AI-generated ideas sound like everyone
+  else's, or thinks their niche is "boring." Uses the SPARK framework. Reads brand-profile +
+  social-strategy + content-pillars +
+  audience-research first. The audience is the idea engine (comments/DMs/FAQs clustered into
+  themes); AI expands real signals, it doesn't discover them; systems beat muses; trends are a
+  timing filter, not a source. The agent clusters/expands/scores; the HUMAN supplies proprietary
+  signals and decides; WoopSocial publishes the content, not ideas. Never rewords competitor
+  posts, invents audience questions, or fabricates probe results. Distinct from
+  social-strategy/content-pillars, audience-research, cross-platform-repurposing/
+  content-recycling, and the format skills.
 version: 1.0.0
 ---
 

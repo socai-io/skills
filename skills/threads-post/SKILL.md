@@ -1,17 +1,16 @@
 ---
 name: threads-post
 description: >-
-  Write and publish single posts on Meta's Threads — the Threads format-execution skill. Use when someone wants a "Threads post," to "post to Threads," grow
-  on Meta's Threads, or publish a Threads post via WoopSocial. Writes a Threads-native conversation post
-  (text <=500 + optional media) built to earn replies — Threads is conversation-first: replies outweigh
-  likes, engagement velocity (first 30-90 min) drives distribution, the For You feed surfaces new accounts,
-  one niche topic tag feeds topic-neighbourhoods, and links are now rewarded inline (no first-comment tax).
-  Uses the REPLY framework. Reads brand-profile + goals-and-kpis first. WoopSocial publishes ONE Threads
-  post (no native multi-post chain, no polls/voice/GIF, no reply surface); the replying that drives reach
-  is a human/community-management job; no update endpoint (edit = delete+recreate); metrics never
-  fabricated; no engagement bait. Distinct from thread-writer (a user saying "write a thread" wants that
-  multi-post X chain, not this), x-growth (sibling text platform, different culture) and caption-writer
-  (text only).
+  Write and publish single posts on Meta's Threads — the Threads format-execution skill. Use when
+  someone wants a "Threads post," to "post to Threads," grow on Meta's Threads, or publish a Threads
+  post via WoopSocial. Writes a Threads-native conversation post (text <=500 + optional media) built
+  to earn replies — Threads is conversation-first: replies outweigh likes and engagement velocity
+  drives distribution. Uses the REPLY framework. Reads brand-profile + goals-and-kpis first.
+  WoopSocial publishes ONE Threads post (no native multi-post chain, no polls/voice/GIF, no reply
+  surface); the replying that drives reach is a human/community-management job; metrics never
+  fabricated; no engagement bait. Distinct from thread-writer (a user saying "write a thread" wants
+  that multi-post X chain, not this), x-growth (sibling text platform, different culture) and
+  caption-writer (text only).
 version: 1.0.0
 ---
 

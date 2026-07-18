@@ -2,19 +2,16 @@
 name: data-and-original-research
 description: >-
   The original-research / data-study content type — turn proprietary data, a survey, a public-dataset
-  analysis, or a simple experiment into the single most linkable and AI-citable asset you can publish. Use when
-  someone wants to build authority with original data, run a "state of X" survey or industry study, turn their
-  proprietary/customer data into a publishable stat, create a research report or data study, or get cited by
-  journalists and AI search (GEO). People and AI engines cite numbers nobody else has; original data earns links
-  and citations passively. Uses the PROVE framework. Reads brand-profile + audience-research first. The agent
-  designs the study (question, method, survey instrument, analysis plan) and frames the findings (headline stat,
-  report, social cuts); the human/tool gathers the real data; WoopSocial publishes the finished cuts. It feeds
-  ai-search-optimization + social-seo (the citable fuel), the format writers (the cuts), infographic-and-data-viz
-  (the charts), and lead-magnets-and-funnels (the gated report). NEVER fabricate data, stats, sample sizes, or a
-  methodology; disclose method + limits; attribute sources; YMYL + privacy/consent care; never guarantee links or
-  virality. Distinct from educational-content-and-how-to (teaches existing knowledge), analytics-and-reporting
-  (internal performance vs publishable research), competitor-analysis (studies rivals), and trend-jacking (rides
-  others' data vs creates your own).
+  analysis, or an experiment into the most linkable and AI-citable asset you can publish. Use when
+  someone wants to build authority with original data, run a "state of X" survey or industry study, turn
+  proprietary/customer data into a publishable stat, or get cited by journalists and AI search (GEO).
+  Uses the PROVE framework. Reads brand-profile + audience-research first. The agent designs the study
+  (question, method, analysis plan) and frames the findings (headline stat, report, social cuts); the
+  human/tool gathers the real data; WoopSocial publishes the finished cuts. Feeds
+  ai-search-optimization + social-seo, the format writers, and infographic-and-data-viz. NEVER
+  fabricates data, stats, or methodology; discloses
+  method + limits. Distinct from educational-content-and-how-to (existing knowledge),
+  analytics-and-reporting (internal performance), competitor-analysis, and trend-jacking.
 version: 1.0.0
 ---
 

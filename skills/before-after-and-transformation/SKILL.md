@@ -1,22 +1,17 @@
 ---
 name: before-after-and-transformation
 description: >-
-  The transformation / before-after content format — structure a credible, honest, satisfying transformation
-  (fitness, beauty, business results, skill progress, makeovers, client glow-ups, product before/after). Use when
-  someone wants a before/after, a transformation post, a client-results reveal, a progress/journey story, or a
-  makeover. It's one of the most powerful formats (visual, built-in proof) AND the most abused/distrusted — so
-  honesty is the competitive edge, and 2026 FTC enforcement here is live. Uses the SHIFT framework (Start with a
-  real before, Highlight the journey, Isolate the variables, Frame results honestly, Tie it to the viewer). Reads
-  brand-profile + social-proof-and-testimonials (consent + FTC substantiation) + short-form-video-script first, and
-  pulls real material from social-proof / data-and-original-research / behind-the-scenes-and-founder. The agent
-  structures + specs; the human/tool produces the real media; WoopSocial publishes (it does not generate media).
-  NEVER stage/exaggerate the before, use inconsistent lighting/posing/edits, imply an unrealistic timeline, hide
-  aids (filters/medication/surgery/pro help), cherry-pick or show only survivors, or fabricate a result/average;
-  a before/after implies a TYPICAL result, so "results not typical" alone is INSUFFICIENT — disclose the actual
-  typical result (median, substantiated, clear + conspicuous); use actual consumers or disclose; consent + YMYL
-  (competent + reliable scientific evidence) required. Distinct from social-proof-and-testimonials (the proof
-  strategy this executes as a format), short-form-video-script (the script), infographic-and-data-viz (the data
-  viz), and storytelling-and-narrative (the arc this specializes).
+  The transformation / before-after content format — structure a credible, honest, satisfying
+  transformation (fitness, beauty, business results, skill progress, makeovers, client glow-ups,
+  product before/after). Use when someone wants a before/after, a transformation post, a
+  client-results reveal, a progress/journey story, or a makeover. Most powerful format AND most
+  abused/distrusted — honesty is the edge; FTC enforcement is live. Uses the SHIFT framework.
+  Reads brand-profile + social-proof-and-testimonials (consent + FTC substantiation) +
+  short-form-video-script first. Agent structures + specs; human/tool produces the real media;
+  WoopSocial publishes. Never stages/exaggerates the before, hides aids, cherry-picks, or
+  fabricates a result; "results not typical" alone is insufficient — disclose the actual typical
+  result; consent + YMYL required. Distinct from social-proof-and-testimonials, short-form-video-
+  script, infographic-and-data-viz, and storytelling-and-narrative.
 version: 1.0.0
 ---
 

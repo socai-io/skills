@@ -1,19 +1,17 @@
 ---
 name: pinterest-pin-design
 description: >-
-  The Pinterest pin design skill -- the visual half that pairs with pinterest-seo's keyword layer. Use when
-  someone wants to design a pin, a Pinterest pin image, a pin text overlay, fresh pin variations
-  for an existing URL, or board covers. Designs and briefs the 2:3 (1000x1500) vertical pin: one focal point
-  in lifestyle/in-context imagery, a keyword text overlay readable at feed size (~236px desktop / half a
-  phone screen; Pinterest OCR-reads it), brand-consistent template, safe zones (logo NOT bottom-right), and
-  3-5 visually distinct FRESH designs per destination URL (fresh designs drive ~90% of traffic). Uses the
-  SAVED framework. Reads brand-profile + the destination + the pinterest-seo keyword first. A HUMAN or an
-  image/design tool (ideogram/canva/nano-banana/a designer) creates the final raster; WoopSocial publishes the
-  finished pin image + title + description + board + link. No misleading pins (Pin -> Board -> Page must
-  match), no repin-as-fresh dupes, engagement never fabricated. Distinct from pinterest-seo (the keyword/
-  ranking layer -- they PAIR: the keyword goes in the overlay AND the title), pinterest-growth (the
-  strategy), design-and-templates (the template system this is one asset in), and ideogram/canva (which
-  render the raster this briefs).
+  The Pinterest pin design skill -- the visual half that pairs with pinterest-seo's keyword layer.
+  Use when someone wants to design a pin, a Pinterest pin image, a pin text overlay, fresh pin
+  variations for an existing URL, or board covers. Designs and briefs the 2:3 (1000x1500) vertical
+  pin: one focal point, a keyword text overlay readable at feed size, brand-consistent template,
+  safe zones, and 3-5 visually distinct FRESH designs per destination URL. Uses the SAVED framework.
+  Reads brand-profile + the destination + the pinterest-seo keyword first. A HUMAN or an
+  image/design tool (ideogram/canva/nano-banana/a designer) creates the final raster; WoopSocial
+  publishes the finished pin image + title + description + board + link. No misleading pins, no
+  repin-as-fresh dupes, engagement never fabricated. Distinct from pinterest-seo (the keyword layer
+  -- they PAIR), pinterest-growth (the strategy), design-and-templates (the template system), and
+  ideogram/canva (render the raster this briefs).
 version: 1.0.0
 ---
 

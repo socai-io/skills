@@ -1,28 +1,18 @@
 ---
 name: community-management
 description: >-
-  Use to build a genuine community — the strategy for turning an audience into a community where members
-  interact with each other, not just with the brand. Run when the user asks how to build community,
-  foster belonging/loyalty, create superfans, start a group/Discord/broadcast channel, get members
-  talking to each other, or move beyond chasing followers/virality. Reads
-  brand-profile/social-strategy/audience-research. Built on the verified 2026 reality: the shift from
-  broadcasting to belonging — community outperforms virality, is algorithm-proof (closed spaces aren't
-  suppressed by feed changes), and is measured by relationship depth/retention not follower count;
-  consumers want brands interacting in smaller spaces; superfans beat broad reach. Covers the
-  audience->community distinction (the marker is member-to-member, self-sustaining interaction),
-  choosing the space (in-feed comment culture -> semi-owned broadcast channels/DMs -> owned
-  groups/Discord/Substack/newsletter — by audience + a clear purpose, NOT platform hype), the rituals
-  engine (recurring formats: weekly threads, AMAs, challenges, member spotlights — consistency over
-  scattered activity), building belonging (shared identity/inside language, featuring members,
-  surprise-and-delight, facilitating member-to-member connections), and nurturing superfans into
-  advocates. Honest community KPIs (active members, retention, response time, relationship depth — read
-  natively, no fabricated numbers). ADVISORY: WoopSocial publishes/schedules the community-building
-  CONTENT (ritual posts, prompts, spotlights, AMA announcements) via scheduling-and-queue, but does NOT
-  run Discord/Slack/groups, manage broadcast channels or an inbox, identify superfans from data, or show
-  analytics — the human runs the actual community in-platform and the agent drafts the content. Never
-  fake community (bought members, engagement pods, astroturfing); get member consent before
-  spotlighting. Pairs with reply-and-comment-writer, engagement-routine, crisis-and-moderation,
-  content-pillars, and profile-optimization.
+  Use to build a genuine community — turning an audience into people who interact with each
+  other, not just with the brand. Run when the user asks how to build community, foster
+  belonging/loyalty, create superfans, start a group/Discord channel, get members talking to each
+  other, or move beyond chasing followers/virality. Reads
+  brand-profile/social-strategy/audience-research. Community outperforms virality, measured by
+  relationship depth/retention, not follower count. Covers the audience-to-community distinction
+  (member-to-member interaction), choosing the space (in-feed -> semi-owned -> owned
+  groups/Discord), recurring rituals, building belonging, and nurturing superfans into advocates.
+  KPIs read natively, never fabricated. Advisory: WoopSocial schedules the content but does NOT
+  run Discord/Slack or show analytics — the human runs the community, the agent drafts. Never
+  fake community; get consent before spotlighting. Pairs with reply-and-comment-writer and
+  crisis-and-moderation.
 metadata:
   version: 1.0.0
 license: MIT

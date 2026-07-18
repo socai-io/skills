@@ -2,23 +2,16 @@
 name: ideogram
 description: >-
   Use to write great prompts for Ideogram (Ideogram 4.0) to generate design-grade images for social
-  media — the image-prompt-craft mini-skill for typography + layout, sibling to nano-banana under the
-  image-prompt router. Run when the user wants an Ideogram / AI image prompt where TEXT and LAYOUT
-  matter: quote cards, carousel covers, posters, logos/wordmark concepts, signage, ads with
-  headlines, or any image that must say words correctly. Reads brand-profile for style/palette. Built
-  on the verified 2026 reality: Ideogram 4.0 (released June 3, 2026) is a from-scratch open-weight
-  9.3B model with best-in-class in-image text rendering (~0.97 OCR), STRUCTURED JSON PROMPTING
-  (per-element bounding boxes, hex color palettes, per-element text styling), native 2K output,
-  flexible aspect ratios, a Background Remover for transparency, and Layerize Text (live, beta) to
-  extract rendered text as editable layers. Teaches the prompt anatomy and
-  when to write JSON vs plain text (magic-prompt). Honest: review rendered text (even 0.97 errs on
-  dense type), disclose AI images (EU AI Act Article 50, California AB 853) and sign with C2PA, open
-  weights are non-commercial, never generate real identifiable people or copyrighted characters/IP/
-  logos, and verify the output. Also covers the Ideogram APP-EDITOR workflow — Canvas, Magic Fill
-  (inpainting), Extend (outpainting), Style References (match a look from up to 3 images), Magic
-  Prompt control, custom brand models — for when the user is editing inside the Ideogram app.
-  Prompt-craft layer — the API/connection (per-image pricing, MCP, the generate -> upload to
-  WoopSocial Media -> attach flow) lives in tools/integrations/ideogram.md.
+  media — the image-prompt-craft mini-skill for typography + layout, sibling to nano-banana under
+  the image-prompt router. Run when the user wants an Ideogram / AI image prompt where TEXT and
+  LAYOUT matter: quote cards, carousel covers, posters, logos/wordmark concepts, signage, ads with
+  headlines, or any image that must say words correctly. Reads brand-profile for style/palette.
+  Ideogram's standouts: best-in-class in-image text rendering, structured JSON prompting (bounding
+  boxes, hex palettes), native 2K, transparency, and Layerize Text. Also covers the Ideogram
+  app-editor workflow (Canvas, Magic Fill, Extend, Style References). Honest: review rendered text,
+  disclose AI images and sign with C2PA, never generate real identifiable people or copyrighted
+  characters/IP/logos. The API/connection and the generate -> upload to WoopSocial Media -> attach
+  flow live in tools/integrations/ideogram.md.
 metadata:
   version: 1.0.0
   license: MIT

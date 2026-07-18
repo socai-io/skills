@@ -1,23 +1,17 @@
 ---
 name: flux
 description: >-
-  The FLUX craft skill (Black Forest Labs) — generate and edit on-brand images with the right variant and the
-  right license. Use when someone wants to generate images with FLUX/FLUX.2/Kontext, edit a generated image
-  ("change one thing, keep the rest"), keep a character or product consistent across a campaign
-  (multi-reference), render legible text in images (ad creatives, headlines), get brand-exact colors (hex-code
-  parameters), pick between FLUX variants (pro/flex/max/dev/klein/schnell), or asks whether their FLUX use is
-  commercially licensed. Uses the PIXEL framework (Pick the variant + license, Instruct in scenes not tags,
-  eXact references + edits, Evaluate + iterate, License + label). Reads image-prompt (the model-agnostic router)
-  + brand-profile + design-and-templates first. The agent writes prompts/edit instructions and can call the API
-  where connected (BFL/fal/Replicate/Together); the HUMAN judges every image; WoopSocial publishes the finished
-  file (it does not generate media). The license spine: [dev] OUTPUTS are commercial-OK but self-hosting [dev]
-  for a commercial service needs a paid BFL tier (agency = 3 clients included, then per-client fees) and the dev
-  license REQUIRES filters/manual review (BFL may verify); Apache-2.0 paths = FLUX.1 [schnell] and FLUX.2
-  [klein] 4B; hosted APIs are the easiest commercial path. NEVER use unpermitted likeness, clone competitor
-  trade dress, strip provenance metadata, ship unverified rendered text, or invent stats for infographics.
-  Distinct from image-prompt (the router), ideogram/nano-banana/Midjourney (sibling tools),
-  ai-image-editing (the edit router this feeds), and canva (the design workflow output drops into). Ships with
-  tools/integrations/flux.md.
+  The FLUX craft skill (Black Forest Labs) — generate and edit on-brand images with the right
+  variant and license. Use when someone wants to generate images with FLUX/FLUX.2/Kontext, edit a
+  generated image, keep a character or product consistent across a campaign, render legible text
+  in images, get brand-exact colors, pick between FLUX variants, or asks if their FLUX use is
+  commercially licensed. Uses the PIXEL framework. Reads image-prompt + brand-profile +
+  design-and-templates first. The agent writes prompts/edit instructions and can call the API
+  where connected; the HUMAN judges every image; WoopSocial publishes. License spine: [dev]
+  outputs are commercial-OK but self-hosting for a commercial service needs a paid BFL tier;
+  Apache-2.0 paths are [schnell]/[klein] 4B. Never use unpermitted likeness, clone trade dress,
+  strip provenance, or invent stats. Distinct from image-prompt, ideogram/nano-banana/Midjourney
+  (sibling tools), ai-image-editing (the edit router this feeds), and canva.
 version: 1.0.0
 ---
 

@@ -1,16 +1,16 @@
 ---
 name: email-and-newsletter
 description: >-
-  Email and newsletter strategy for creators and brands — the owned-audience layer that social feeds. Use when someone wants to "start/grow a newsletter," "build an
-  email list," "turn followers into subscribers," "should I use Substack/beehiiv/LinkedIn," "repurpose
-  my newsletter into social (or vice versa)," or build the audience layer social can't take away. Runs
-  email (habit) + a web archive (discovery) off the same work and loops content social<->email. Uses the
-  INBOX framework. Reads brand-profile + voice-builder + content-pillars first. WoopSocial does NOT send
-  email: the agent strategizes + drafts editions and social-promo posts; the ESP (beehiiv/Substack/
-  LinkedIn/Kit/etc.) is external + human-run; WoopSocial publishes the social posts that grow the list
-  and repurpose the newsletter; opens/clicks/signups come from the ESP + GA4, never fabricated; consent +
-  unsubscribe are required. Distinct from link-in-bio-and-traffic (capture), cross-platform-repurposing
-  (same-moment), and lead-magnets-and-funnels (the magnet).
+  Email and newsletter strategy for creators and brands — the owned-audience layer that social
+  feeds. Use when someone wants to "start/grow a newsletter," "build an email list," "turn followers
+  into subscribers," "should I use Substack/beehiiv/LinkedIn," "repurpose my newsletter into social
+  (or vice versa)," or build the audience layer social can't take away. Runs email (habit) + a web
+  archive (discovery) off the same work and loops content social<->email. Uses the INBOX framework.
+  Reads brand-profile + voice-builder + content-pillars first. WoopSocial does NOT send email — the
+  agent strategizes and drafts, the ESP is external and human-run, WoopSocial publishes only the
+  social side; metrics come from the ESP + GA4, never fabricated; consent + unsubscribe required.
+  Distinct from link-in-bio-and-traffic (capture), cross-platform-repurposing (same-moment), and
+  lead-magnets-and-funnels (the magnet).
 version: 1.0.0
 ---
 

@@ -1,20 +1,16 @@
 ---
 name: infographic-and-data-viz
 description: >-
-  The craft of turning real data into honest, scannable, shareable infographics and charts. Use when someone wants
-  to visualize data, make an infographic, build a chart/graph, turn a finding or stat into a visual, or fix a
-  chart that's confusing or misleading. A great data viz makes one insight land in 3 seconds — most fail by burying
-  the takeaway or quietly distorting it. Uses the CHART framework (Choose the right chart for the message, Headline
-  the takeaway, Anchor to honest scales, Reduce to the signal, Tag the source + make it accessible). Reads
-  brand-profile + design-and-templates first and pulls the real data from data-and-original-research /
-  analytics-and-reporting. The agent designs the spec (chart type, takeaway title, honest scale, labels, color/
-  accessibility, alt text); a design/chart tool renders the final image; the human approves; WoopSocial publishes
-  the finished image (it does not generate media). NEVER distort scales (truncated axes, 3D, dual-axis,
-  cherry-picked ranges), fabricate a data point or source, or visualize an unsourced/YMYL claim; cite source +
-  date; accessibility (color-blind-safe + redundant encoding + WCAG contrast + alt text) required; AI-disclosure
-  for AI-generated visuals. Distinct from design-and-templates (general brand design), quote-cards-and-text-graphics
-  (a lone quote/number as typography), data-and-original-research (originates the data this visualizes),
-  analytics-and-reporting (internal reporting), and the AI image generators (which don't draw honest charts).
+  The craft of turning real data into honest, scannable, shareable infographics and charts. Use when
+  someone wants to visualize data, make an infographic, build a chart/graph, turn a finding or stat
+  into a visual, or fix a chart that's confusing or misleading. A great data viz makes one insight land
+  in 3 seconds. Uses the CHART framework (chart choice, headline takeaway, honest scale, reduce to
+  signal, tag source + accessibility). Reads brand-profile + design-and-templates first and pulls real
+  data from data-and-original-research / analytics-and-reporting. The agent designs the spec; a
+  design/chart tool renders it; the human approves; WoopSocial publishes the image (it does not
+  generate media). NEVER distorts scales or fabricates a data point/source; cites source + date;
+  accessibility required. Distinct from design-and-templates (brand design), quote-cards-and-text-graphics
+  (a lone quote/number), data-and-original-research (originates the data), and analytics-and-reporting.
 version: 1.0.0
 ---
 

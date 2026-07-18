@@ -5,14 +5,12 @@ description: >-
   conversation — to earn reach by attaching the brand to something already getting attention (a.k.a.
   trendjacking / newsjacking). Run when the user says "trend," "trending," "jump on this trend,"
   "trendjack," "newsjack," "is this trend worth doing," "make this go viral," or wants to react to a
-  current moment. Reads brand-profile, voice, and audience first, then runs three gates — FIT (is
-  there an authentic angle?), SAFETY (is it sensitive/divisive/exploitative to touch?), and TIMING
-  (is the trend still on the way up?) — before executing a fast, on-brand remix and handing to the
-  right content skill (tiktok-script, reels-script, caption-writer) and scheduling-and-queue.
-  Refuses to trendjack tragedies or divisive moments and won't force irrelevant trends. Live trend
-  discovery needs current scanning; this skill vets and executes. For meme-format craft, cultural
-  fluency, and meme IP/likeness judgment ("make a meme," "is this meme safe"), route to
-  meme-and-culture — the two pair: this owns speed/timing, that owns the meme craft.
+  current moment. Reads brand-profile, voice, and audience first, then runs three gates — FIT,
+  SAFETY, and TIMING — before executing a fast, on-brand remix and handing to the right content
+  skill (tiktok-script, reels-script, caption-writer) and scheduling-and-queue. Refuses to trendjack
+  tragedies or divisive moments and won't force irrelevant trends; live trend discovery needs
+  current scanning — this skill vets and executes. For meme-format craft, cultural fluency, and meme
+  IP/likeness judgment ("make a meme," "is this meme safe"), route to meme-and-culture.
 metadata:
   version: 1.0.0
 license: MIT

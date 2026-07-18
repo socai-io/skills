@@ -3,19 +3,14 @@ name: social-seo
 description: >-
   Use to make social content discoverable through SEARCH across social platforms — the
   social-SEO / keyword-discovery skill. Run when the user says "social SEO," "get found in search,"
-  "TikTok SEO," "YouTube SEO," "rank in TikTok/YouTube search," "keywords for social," "searchable
-  captions," "show up when people search," "evergreen discovery," or wants search across platforms
-  rather than just the feed. For single-platform depth, route "Instagram SEO" to instagram-seo and
-  Pinterest-specific asks to pinterest-seo; this skill owns the cross-platform framework. Reads brand-profile and audience first. Built on the 2026 reality: all social
-  platforms are search engines (TikTok/IG/YouTube/Pinterest/LinkedIn), keywords (not hashtags) are
-  the discovery lever, search optimization doubles as recommendation categorization, and social
-  content also surfaces on Google. Covers what each platform indexes (spoken audio/transcription,
-  on-screen text, captions, titles/descriptions, alt text, profile/name fields), keyword research
-  using platform autocomplete and native search analytics (never fabricates search volumes), the
-  triple-mention technique, topical clusters for evergreen discovery, and the profile as a search
-  asset. Routes to hashtag-strategy (hashtags as a minor signal), caption-writer, profile-optimization,
-  and the growth skills; hands the AI-search/LLM-citation (GEO) layer to ai-search-optimization.
-  Judges via native platform search insights — not WoopSocial analytics.
+  "TikTok SEO," "YouTube SEO," "keywords for social," "searchable captions," or wants search across
+  platforms rather than just the feed. For single-platform depth, route "Instagram SEO" to
+  instagram-seo and Pinterest asks to pinterest-seo; this skill owns the cross-platform framework.
+  Reads brand-profile and audience first. All platforms are search engines; keywords, not hashtags,
+  are the lever. Covers per-platform indexed surfaces, keyword research via autocomplete + native
+  analytics (never fabricates volumes), the triple-mention technique, topical clusters, and the
+  profile as a search asset. Routes hashtags to hashtag-strategy; hands the AI-search/LLM-citation
+  (GEO) layer to ai-search-optimization. Measures via native search insights, not WoopSocial analytics.
 metadata:
   version: 1.0.0
 license: MIT

@@ -1,23 +1,17 @@
 ---
 name: content-research-and-sourcing
 description: >-
-  The research-and-sourcing craft — verify the substance of a piece before it publishes: trace stats to primary
-  sources, kill zombie stats, catch AI-hallucinated citations, and attribute properly on social. Use when
-  someone has a stat-heavy draft to make publish-ready, wants to check whether a viral statistic is real, asks
-  how to cite sources in social posts, used AI research output ("it gave me studies and links"), can't find a
-  source for a claim they believe, or is making health/finance claims. Uses the FACTS framework (Find the
-  load-bearing claims, Ascend to the primary source, Check freshness + context, Test AI output hard, Show your
-  sources). Reads brand-profile + the piece's format skill first. The 2026 truths: generative search tools were
-  wrong on 60%+ of tested news-citation queries and fabricated references surged ~12-fold since 2023 — so
-  AI-supplied citations are guilty until verified, and a WORKING LINK IS NOT VERIFICATION (identifier
-  hijacking: real DOIs resolving to unrelated papers); ubiquity is not evidence (the goldfish/Mehrabian zombie
-  class); aggregators are leads, not sources — cite the primary; being the precisely-sourced account is a
-  trust + GEO moat; where no source exists, reframe as owned observation or commission the data
-  (data-and-original-research). The agent verifies where it has search and never fabricates a source log; the
-  human clicks links where it doesn't; verification happens BEFORE scheduling; WoopSocial publishes. NEVER
-  invent studies, reuse retracted stats, fabricate quotes, or dress intuition as research. Distinct from
-  idea-generation (where ideas come from), data-and-original-research (creating data), quote-cards (quote-card
-  rules), and infographic-and-data-viz (honest charts).
+  The research-and-sourcing craft — verify the substance of a piece before it publishes: trace
+  stats to primary sources, kill zombie stats, catch AI-hallucinated citations, and attribute
+  properly on social. Use when someone has a stat-heavy draft to make publish-ready, wants to
+  check if a viral statistic is real, asks how to cite sources, used AI research output, or is
+  making health/finance claims. Uses the FACTS framework. Reads brand-profile + the piece's
+  format skill first. AI-supplied citations are guilty until verified; a working link is not
+  verification; aggregators are leads, not the source; where none exists, reframe as owned
+  observation or commission data. The agent verifies where it has search; the human clicks links
+  where it doesn't; verification happens before scheduling; WoopSocial publishes. Never invents
+  studies or reuses retracted stats. Distinct from idea-generation, data-and-original-research,
+  quote-cards, and infographic-and-data-viz.
 version: 1.0.0
 ---
 

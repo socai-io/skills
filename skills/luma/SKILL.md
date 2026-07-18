@@ -1,22 +1,17 @@
 ---
 name: luma
 description: >-
-  The Luma Dream Machine craft skill — generate cinematic AI video shots (Ray3 / Ray3.14: text-to-video,
-  image-to-video, keyframes, character reference, Modify V2V, HDR) with draft-first economics and the right
-  rights. Use when someone wants to generate video with Luma/Dream Machine/Ray3, animate a still into video, keep
-  a character consistent across AI shots, restyle real footage (Modify), control credit burn (Draft Mode vs HDR),
-  pick a Luma model or plan, or build a multi-shot AI brand film. Uses the DREAM framework (Define the shot,
-  Reference with stills + frames, Economize with drafts, Assemble the sequence, Mind the rights). Reads ai-video
-  (the model-agnostic router) + brand-profile + design-and-templates + short-form-video-script first. The agent
-  writes shot briefs and can drive the official API/SDK where connected; the HUMAN judges every clip; WoopSocial
-  publishes the finished file (it does not generate video). The spines: generations are SHOTS not films (5-10s;
-  Extend degrades; assemble in capcut; NO native audio — sound in post); Draft Mode first, HDR only for finals
-  (~16x credits); free tier = watermarked non-commercial and tier structures conflict across sources (verify
-  in-app; Luma retains a marketing license on your generations; Enterprise for NDA work); same-prompt variance is
-  real — consistency comes from references, not luck. NEVER use unpermitted likeness, generate photoreal
-  fake-event footage of real entities, or state credit rates/tiers as immutable fact. Distinct from ai-video (the
-  router), veo-3/kling/runway (sibling skills; sound-native routes to veo-3; edit-grade control to runway), flux (the stills this animates), heygen/
-  synthesia (avatars), and capcut (where shots become films). Ships with tools/integrations/luma.md.
+  The Luma Dream Machine craft skill — generate cinematic AI video shots (Ray3: text-to-video,
+  image-to-video, keyframes, character reference, Modify V2V, HDR) with draft-first economics and
+  the right rights. Use when someone wants to generate video with Luma/Dream Machine/Ray3, animate
+  a still into video, keep a character consistent across shots, restyle real footage, control
+  credit burn, pick a Luma model or plan, or build a multi-shot AI brand film. Uses the DREAM
+  framework. Reads ai-video + brand-profile + short-form-video-script first. The agent writes shot
+  briefs and can drive the API where connected; the HUMAN judges every clip; WoopSocial publishes.
+  Generations are shots not films (no native audio); Draft Mode first, HDR only for finals; verify
+  tiers in-app. Never use unpermitted likeness, generate fake-event footage, or state credit rates
+  as fact. Distinct from ai-video, veo-3/kling/runway, flux (the stills this animates),
+  heygen/synthesia, and capcut.
 version: 1.0.0
 ---
 

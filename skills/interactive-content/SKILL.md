@@ -1,22 +1,16 @@
 ---
 name: interactive-content
 description: >-
-  The participation content format — polls, quizzes, Q&A / scoped AMAs, this-or-that, emoji sliders, question
-  boxes, caption-this, Add-Yours, and challenges. Use when someone wants interactive posts, Story stickers, a
-  poll/quiz/AMA, a challenge or contest, or to turn passive scrollers into participants. Participation
-  out-performs consumption: low-friction taps are high-value algorithmic signals, and every interaction doubles as
-  audience research. Uses the REACT framework (Reason to participate, Effortless first tap, Ask something
-  specific, Close the loop, Turn responses into content + insight). Reads brand-profile + audience-research +
-  voice-builder first. The agent designs the mechanic, questions, copy, and the close-the-loop plan; the HUMAN
-  adds native interactive elements in-app — poll/quiz/question stickers and live AMAs are NATIVE-ONLY (WoopSocial
-  cannot attach stickers, auto-DM voters, or read sticker results); WoopSocial publishes the feed-post versions
-  (this-or-that, comment-your-answer, challenge announcements, results shares). NEVER fabricate or rig results,
-  astroturf fake questions/accounts, fabricate quiz facts, or fake participation; consent before sharing anyone's
-  answer (question boxes aren't anonymous); no harvesting sensitive data via casual polls; contests follow
-  platform rules + local law; a Story poll is direction, not research (real studies route to
-  data-and-original-research). Distinct from community-management (the ongoing relationship), reply-and-comment-
-  writer (the replies), livestream-and-realtime (live broadcast craft), and ugc-and-influencer (UGC rights +
-  challenges).
+  The participation content format — polls, quizzes, Q&A / scoped AMAs, this-or-that, emoji sliders,
+  question boxes, caption-this, Add-Yours, and challenges. Use when someone wants interactive posts,
+  Story stickers, a poll/quiz/AMA, a challenge or contest, or to turn passive scrollers into
+  participants. Low-friction taps are high-value algorithmic signals, and every interaction doubles as
+  audience research. Uses the REACT framework. Reads brand-profile + audience-research + voice-builder
+  first. The agent designs the mechanic, questions, copy, and the close-the-loop plan; the HUMAN adds
+  native interactive elements in-app — stickers and live AMAs are NATIVE-ONLY (WoopSocial cannot attach
+  stickers or read results); WoopSocial publishes the feed-post versions. NEVER fabricates or rigs
+  results or fakes participation; consent before sharing anyone's answer. Distinct from
+  community-management, reply-and-comment-writer, livestream-and-realtime, and ugc-and-influencer.
 version: 1.0.0
 ---
 

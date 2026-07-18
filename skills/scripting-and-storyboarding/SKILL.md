@@ -1,23 +1,17 @@
 ---
 name: scripting-and-storyboarding
 description: >-
-  The pre-production system — turn a video idea into a shootable, editable plan: the two-column AV script, the
-  storyboard as a decision document, the numbered shot list, the batch-shoot plan, and the paper edit. Use when
-  someone's shoots are chaotic, their edits take forever, their videos feel static ("just me talking"), they
-  want to batch-film a week of content in one session, need a storyboard but can't draw, are planning a
-  multi-shot AI video sequence, or their "60-second" scripts keep running long. Uses the SCENE framework (Start
-  from the spine, Columns audio + visual, Envision every beat, Number the shots, Edit on paper first). Reads
-  idea-generation-and-ideation (the idea) + short-form-video-script or the long-form skill (the retention
-  spine) + brand-profile first. The core truths: a words-only script plans half the video (the improvised half
-  defaults to a static face — the AV script writes what's SEEN); the storyboard is a decision document, not art
-  (shot tables and AI previz frames beat drawing skill; boards are directional); the shot list regrouped BY
-  SETUP is what makes batch shooting possible; runtime math is ~130-150 wpm (~75 words per 30s) and the
-  cheapest edit is on paper; AI video sequences need MORE pre-production (each panel = a generation's shot
-  brief; previz frames cost cents, generations cost credits). The agent writes every planning artifact; the
-  HUMAN shoots/generates and judges; WoopSocial publishes the finished video. NEVER stage candid-as-real
-  moments, lift another creator's script, or promise runtimes the word count can't deliver. Distinct from
-  short-form-video-script (the words craft this productionizes), talking-head-and-piece-to-camera (the
-  delivery), capcut/descript (the edit), and luma (the generations).
+  The pre-production system — turn a video idea into a shootable, editable plan: the two-column AV
+  script, the storyboard as a decision document, the numbered shot list, the batch-shoot plan, and
+  the paper edit. Use when shoots are chaotic, edits drag, videos feel static ("just me
+  talking"), someone wants to batch-film a week of content in one session, needs a storyboard but
+  can't draw, is planning a multi-shot AI video sequence, or scripts keep running long. Uses the
+  SCENE framework. Reads idea-generation-and-ideation + short-form-video-script or the long-form
+  skill + brand-profile first. A words-only script plans half the video; the storyboard is a
+  decision document, not art; the shot list grouped by setup enables batch shooting. The agent
+  writes the plan; the HUMAN shoots/generates and judges; WoopSocial publishes. Never stages
+  candid-as-real moments or lifts another creator's script. Distinct from short-form-video-script,
+  talking-head-and-piece-to-camera, capcut/descript, luma.
 version: 1.0.0
 ---
 

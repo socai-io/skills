@@ -1,24 +1,17 @@
 ---
 name: seasonal-and-moment-marketing
 description: >-
-  The annual moment-planning skill -- map the few seasonal/cultural/commercial moments that genuinely fit your
-  brand, gate them for fit + authenticity, tier them by weight, and plan them far in advance. Use when someone
-  wants a seasonal/holiday content plan, a moment calendar, to plan Black Friday/holiday content, or to decide
-  whether to post for a holiday/awareness day. The planned, predictable counterpart to trend-jacking's
-  reactivity. Core truth: not every holiday deserves a post, and not every brand deserves a voice in every
-  conversation -- silence on the wrong day beats noise on the wrong topic. Uses the DATES framework. Reads
-  brand-profile + audience-research first. The agent builds the brand's moment calendar + applies the fit +
-  authenticity gate + tiers by commercial weight + plans the angle/lead-time + feeds the content-calendar. Big
-  commercial moments (Black Friday/Cyber Monday, Christmas, Halloween, Valentine's, Mother's) run as multi-week
-  series and route to campaign-and-launch-planning + paid; the reactive ~50% routes to trend-jacking; the
-  cultural-moment craft routes to meme-and-culture; the visual to the image tools/design-and-templates.
-  WoopSocial schedules the planned content in advance -- it does NOT pick the moments, judge authenticity,
-  build the calendar, or run paid amplification. Lead times: 8-12 weeks for major moments, 2-4 weeks for minor.
-  Never participate in identity/cause moments (Pride, MLK, Juneteenth, Earth Day) without genuine year-round
-  standing (performative/rainbow-washing backlash); non-promotional respect for solemn/cultural days; never
-  fabricate a tie-in or a metric. Distinct from trend-jacking (the reactive counterpart), content-calendar (the
-  operational scheduling system it feeds), and campaign-and-launch-planning (the multi-post arc big moments
-  route to).
+  The annual moment-planning skill -- map the few seasonal/cultural/commercial moments that
+  genuinely fit your brand, gate them for fit + authenticity, tier by weight, and plan far in
+  advance. Use when someone wants a seasonal/holiday content plan, a moment calendar, to plan
+  Black Friday/holiday content, or to decide whether to post for a holiday/awareness day. The
+  planned counterpart to trend-jacking's reactivity: silence on the wrong day beats noise on the
+  wrong topic. Uses the DATES framework. Reads brand-profile + audience-research first. The agent
+  builds the calendar, gates fit + authenticity, tiers, plans lead-time, feeds content-calendar.
+  Big moments route to campaign-and-launch-planning + paid; the reactive half to trend-jacking.
+  WoopSocial schedules ahead -- it does not pick moments, judge authenticity, or run paid. Never
+  join identity/cause moments without year-round standing; never fabricate. Distinct from
+  trend-jacking, content-calendar, and campaign-and-launch-planning.
 version: 1.0.0
 ---
 

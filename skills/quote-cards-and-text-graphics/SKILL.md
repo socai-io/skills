@@ -1,21 +1,17 @@
 ---
 name: quote-cards-and-text-graphics
 description: >-
-  The craft of turning a single quote, line, or stat into a designed typographic graphic — quote cards,
-  pull-quotes, text-on-image, stat cards, typography posts. Use when someone wants a quote card, a text graphic, a
-  pull-quote, a stat card, or to turn a strong line into a shareable image. A quote card packages one idea into
-  something people save and re-share — but the design amplifies a strong line, it can't create one. Uses the QUOTE
-  framework (Quotable line first, Undistorted + attributed, One idea outsized, Type on-brand, Ensure legibility).
-  Reads brand-profile + design-and-templates + voice-builder first, and pulls the line from hook-writer /
-  contrarian-and-opinion / storytelling-and-narrative / social-proof-and-testimonials / text-post-and-microblog /
-  data-and-original-research (a stat). The agent picks the line + specs the card; a design tool (Canva /
-  design-and-templates) renders; the human approves; WoopSocial publishes the finished image (it does not generate
-  media). NEVER fabricate a quote, attribute an invented/fictional line to a real person, put words in a
-  competitor's mouth, strip context to change meaning, reproduce copyrighted lyrics/poems, or render an unsourced
-  stat; verify wording + source; consent + likeness; social-proof/FTC rules for testimonials; AI-disclosure; YMYL
-  care. Distinct from infographic-and-data-viz (charts/multi-fact data; a lone stat routes here), design-and-
-  templates (the general brand system), caption-writer (text under media), text-post-and-microblog (the native
-  post), and social-proof-and-testimonials (the proof strategy this renders).
+  The craft of turning a single quote, line, or stat into a designed typographic graphic — quote
+  cards, pull-quotes, text-on-image, stat cards, typography posts. Use when someone wants a quote card,
+  a text graphic, a pull-quote, a stat card, or to turn a strong line into a shareable image. The
+  design amplifies a strong line; it can't create one. Uses the QUOTE framework. Reads brand-profile +
+  design-and-templates + voice-builder first, and pulls the line from hook-writer, storytelling, or
+  data-and-original-research (a stat). The agent picks the line and specs the card; a design tool
+  renders; the human approves;
+  WoopSocial publishes the image (it does not generate media). NEVER fabricates a quote, attributes an
+  invented line to a real person, or strips context; verifies wording + source; consent + likeness.
+  Distinct from infographic-and-data-viz, design-and-templates, caption-writer, and
+  social-proof-and-testimonials.
 version: 1.0.0
 ---
 

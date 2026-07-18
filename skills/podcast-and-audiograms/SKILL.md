@@ -2,21 +2,15 @@
 name: podcast-and-audiograms
 description: >-
   The audio-to-social pipeline skill -- turn a podcast episode into short, branded, captioned clips and
-  audiograms that drive people back to the full episode. Use when someone wants to repurpose a podcast, make
-  podcast clips, create audiograms, or promote an episode on social. A podcast is long-form; social runs on
-  short, visual, sound-off video. Uses the WAVES framework. Reads brand-profile + the episode (recording +
-  transcript/retention data) first. The top-1% lever: select clips by listener-retention data (Spotify for
-  Podcasters / YouTube Studio spikes = replayed moments) + the timestamped transcript, not just an AI virality
-  score; and a strategic CTA that gives a reason to watch the full episode. Audiograms (cover art + animated
-  waveform + captions) are the audio-only format. The agent plans the clip strategy + briefs the clip/audiogram
-  creation + plans the cross-platform cadence + writes hooks/CTAs; a clip tool (Opus Clip/Choppity/Descript/
-  Kapwing) or audiogram tool (Headliner/Podsqueeze) produces the clips; the creator finalizes; WoopSocial
-  publishes the finished clips/audiograms on a schedule. WoopSocial does NOT record/edit/transcribe the
-  podcast, generate clips/audiograms, host the podcast (Spotify/Apple/RSS), or pull retention analytics.
-  Captions are non-optional (85% sound-off). Never fabricate virality or clip someone else's copyrighted
-  podcast. Distinct from captions-and-clipping (the general clip/caption-burn-in craft it routes video clips
-  to), content-recycling/cross-platform-repurposing (the general reuse axes), and youtube-long-form (the full
-  episode on YT).
+  audiograms that drive people back to the full episode. Use when someone wants to repurpose a
+  podcast, make podcast clips, create audiograms, or promote an episode on social. Uses the WAVES
+  framework. Reads brand-profile + the episode first. Select clips by listener-retention data +
+  timestamped transcript, not just an AI virality score, plus a strategic CTA back to the episode. The
+  agent plans the clip strategy, briefs the clip/audiogram creation, plans the cadence, and writes
+  hooks/CTAs; a clip or audiogram tool produces the clips; the creator finalizes; WoopSocial publishes
+  on a schedule and does NOT record/edit/transcribe the podcast, generate clips, or host it. Captions
+  are non-optional (85% sound-off). Never fabricates virality or clips someone's copyrighted podcast.
+  Distinct from captions-and-clipping, content-recycling, and youtube-long-form.
 version: 1.0.0
 ---
 

@@ -1,21 +1,16 @@
 ---
 name: contrarian-and-opinion
 description: >-
-  The point-of-view content type — articulate, sharpen, and argue a genuinely-held contrarian stance / hot take /
-  opinion / thought-leadership position that builds authority and real debate. Use when someone wants a POV, a hot
-  take, an "unpopular opinion", a contrarian angle, an opinion piece, or to stop sounding like everyone else and
-  build thought leadership. A real stance is the rarest, most differentiating content there is — and playing it
-  safe is its own risk (weak/no POV makes buyers walk). Uses the STAND framework. Reads brand-profile +
-  voice-builder first. The agent helps articulate, argue (with evidence), and frame the human's OWN opinion; the
-  human owns the stance + the reputational call and engages the live debate; WoopSocial publishes. It pulls
-  evidence from data-and-original-research / social-proof-and-testimonials, and feeds hook-writer (the take as
-  hook), thread-writer / caption-writer / reels-script (the argument as cuts), reply-and-comment-writer +
-  community-management (good-faith engagement), and crisis-and-moderation (if it escalates). NEVER manufacture a
-  controversy or a stance the person doesn't hold, generate ragebait, strawman, punch down at people/groups,
-  defame a competitor, or dress up best-practice as fake-contrarian; opinion stays clearly opinion and any factual
-  claim must be true; YMYL no-dangerous-misinformation; never guarantee against backlash. Distinct from hook-writer
-  (the opening-line mechanic this feeds), educational-content-and-how-to (teaches a process), storytelling-and-
-  narrative (narrative vs argument), and behind-the-scenes-and-founder (personal story vs argued position).
+  The point-of-view content type — articulate, sharpen, and argue a genuinely-held contrarian stance
+  / hot take / opinion / thought-leadership position that builds authority and real debate. Use when
+  someone wants a POV, a hot take, an "unpopular opinion", a contrarian angle, an opinion piece, or
+  to stop sounding like everyone else and build thought leadership. Uses the STAND framework. Reads
+  brand-profile + voice-builder first. The agent argues the human's OWN opinion with evidence; the
+  human owns the stance and the live debate; WoopSocial publishes. Never manufactures a stance,
+  controversy, or ragebait; no strawmen, punching down, or defamation; opinion stays clearly opinion
+  and factual claims must be true. Distinct from hook-writer (the opening-line mechanic this feeds),
+  educational-content-and-how-to (teaches a process), storytelling-and-narrative (narrative vs
+  argument), and behind-the-scenes-and-founder (personal story vs argued position).
 version: 1.0.0
 ---
 

@@ -2,19 +2,15 @@
 name: pinterest-seo
 description: >-
   The Pinterest SEO / search-ranking skill -- the keyword layer that pairs with pinterest-pin-design's visual.
-  Use when someone wants pins to rank in Pinterest search, needs keyword research, or wants keyword-optimized
-  pin titles/descriptions/boards. Pinterest is a visual search engine ('Google with pictures', DA 94, ~97%
-  unbranded searches) where keywords and relevance rank you, not followers, and pins compound over a ~4-month
-  lifespan. Uses the FOUND framework. Reads brand-profile + the pin's destination/topic first. The agent
-  researches the real queries (Pinterest autocomplete + Guided Search bubbles + Trends -- advises the method,
-  never fabricates volume), writes the keyword-led pin title (<=100, [keyword] | [benefit] | [context]) + a
-  natural keyword-rich description (no stuffing), specs the on-pin overlay keyword (rendered by an image tool
-  like ideogram), and advises board names/descriptions + a keyword-aligned link. WoopSocial publishes the
-  pin's title + description + board (pinterestBoardId) + link (<=2048); profile/bio, board setup, alt text,
-  file names, claiming the site, Rich Pins, and Pinterest Trends/Analytics are native/human. No keyword
-  stuffing/over-optimization (suppressed), Pin->Board->Page must match (no misleading), fresh pins not dupes,
-  volumes/rankings never fabricated. Distinct from pinterest-pin-design (the visual), pinterest-growth (the
-  strategy), and social-seo (cross-cutting search).
+  Use when someone wants pins to rank in Pinterest search, needs keyword research, or wants
+  keyword-optimized pin titles/descriptions/boards. Pinterest is a visual search engine where keywords
+  and relevance rank you, not followers. Uses the FOUND framework. Reads brand-profile + the pin's
+  destination first. The agent researches real queries (autocomplete + Guided Search + Trends; never
+  fabricates volume), writes the keyword-led title + a natural description (no stuffing), specs the
+  on-pin overlay keyword, and advises boards + link. WoopSocial publishes the pin's title + description
+  + board + link; profile/bio, board setup, alt text, Rich Pins, and Trends/Analytics stay native/human.
+  No stuffing; Pin->Board->Page must match; fresh pins, not dupes. Distinct from pinterest-pin-design
+  (the visual), pinterest-growth (the strategy), and social-seo (cross-cutting search).
 version: 1.0.0
 ---
 

@@ -3,19 +3,14 @@ name: instagram-reels-publishing
 description: >-
   The Instagram Reels publish-mechanics skill -- distinct from reels-script (the script), instagram-seo (the
   keyword caption), and platform-specs-and-validation (cross-platform validation). Use when someone has a
-  finished Reel and needs to publish it correctly: dimensions/specs, the cover, the safe zone, and the publish
-  settings. It gets the Reel OUT the way Instagram actually displays it: 9:16 1080x1920 spec-clean video, the
-  safe zone (top ~250 / bottom ~350 UI) that survives the 4:5 feed crop and the 3:4 profile-grid crop (the 2025
-  rectangular-grid change), a
-  custom grid-safe cover (chosen before publish, can't edit after), the keyword caption, and audio. Uses the
-  FRAME framework. Reads brand-profile + the Reel asset/topic first. The agent specs the publish settings + the
-  cover brief + the specs/safe-zone checklist + advises audio/tags. WoopSocial publishes postType REEL + video
-  + caption + cover (REEL-only) on a schedule, validated via platform-specs-and-validation. Native/in-app:
-  trending audio (IG's licensed library isn't addable via API), Share-to-Feed toggle, collaborator/product
-  tags, media-quality setting, Reel Insights. Other tools: the video (video tools/creator), the cover design
-  (image tools), the burned-in captions (captions-and-clipping). 9:16 or it crops/blurs, keep content in the
-  safe zone, custom cover can't be edited after upload, remove other-platform watermarks, metrics never
-  fabricated. Pairs with instagram-seo + reels-script.
+  finished Reel and needs to publish it correctly: specs, cover, safe zone, publish settings. It gets the
+  Reel OUT the way Instagram displays it: 9:16 spec-clean video, the safe zone that survives the feed and
+  profile-grid crops, a custom grid-safe cover (chosen before publish, can't edit after), the keyword
+  caption, and audio. Uses the FRAME framework. Reads brand-profile + the Reel asset first. The agent
+  specs the publish settings, cover brief, and specs/safe-zone checklist, and advises audio/tags.
+  WoopSocial publishes postType REEL + video + caption + cover on a schedule; trending audio,
+  Share-to-Feed, tags, and Reel Insights stay native/in-app; the video/cover come from other tools.
+  Remove other-platform watermarks; metrics never fabricated.
 version: 1.0.0
 ---
 

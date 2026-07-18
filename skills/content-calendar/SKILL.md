@@ -4,15 +4,14 @@ description: >-
   Use to build a content calendar — a sustainable, repeatable posting rhythm and recurring
   structure (which pillars/formats post on which days, on which platforms), derived from strategy
   and pillars. Run when the user says "content calendar," "editorial calendar," "social media
-  calendar," "posting schedule," "content plan" (ongoing), "what should I post each week,"
-  "build me a posting routine/cadence," or wants a
-  repeatable system rather than one period's posts. Reads social-strategy, content-pillars, and
-  brand-profile first; sizes cadence to real capacity (the #1 reason calendars fail is
-  overcommitting); builds a recurring skeleton of content buckets and named series; anchors known
-  dates while reserving room for reactive/trend content; and sets the planning rhythm (batch,
-  buffer, review). Hands a specific period's briefs to batch-content-plan, content to the writing
-  skills, and scheduling to scheduling-and-queue. For filling one specific week/month with actual
-  posts use batch-content-plan; for higher-level channel/goal choices use social-strategy.
+  calendar," "posting schedule," "content plan" (ongoing), "what should I post each week," "build
+  me a posting routine/cadence," or wants a repeatable system rather than one period's posts. Reads
+  social-strategy, content-pillars, and brand-profile first; sizes cadence to real capacity; builds
+  a recurring skeleton of buckets and named series with room reserved for reactive/trend content;
+  sets the planning rhythm (batch, buffer, review). Hands a period's briefs to batch-content-plan,
+  content to the writing skills, and scheduling to scheduling-and-queue. For filling one specific
+  week/month with actual posts use batch-content-plan; for higher-level channel/goal choices use
+  social-strategy.
 metadata:
   version: 1.0.0
 license: MIT

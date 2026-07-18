@@ -6,12 +6,11 @@ description: >-
   to fix it. Run when the user says "grow on Instagram," "Instagram growth," "get more
   followers/reach on Instagram," "my Instagram isn't growing," "Instagram strategy," or wants more
   reach/followers on IG. Reads brand-profile, social-strategy, and audience first. Built on the 2026
-  reality: Instagram is a discovery engine (most reach is from non-followers via Reels and Explore),
-  and the dominant signals are watch time and sends-per-reach (DM shares), with sends ~3-5x more
-  valuable than likes for new reach. Diagnoses the broken stage of the growth loop and routes to the
-  right skill (reels-script, carousel-writer, profile-optimization, content-calendar,
-  hashtag-strategy, trend-jacking). Judges via native Instagram Insights (sends-per-reach, saves,
-  profile visits) — not WoopSocial analytics — and treats follower count as vanity.
+  reality that Instagram is a discovery engine where watch time and sends (DM shares) drive
+  non-follower reach. Diagnoses the broken stage of the growth loop and routes to the right skill
+  (reels-script, carousel-writer, profile-optimization, content-calendar, hashtag-strategy,
+  trend-jacking). Judges via native Instagram Insights — not WoopSocial analytics — and treats
+  follower count as vanity.
 metadata:
   version: 1.0.0
 license: MIT

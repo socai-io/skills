@@ -3,18 +3,14 @@ name: livestream-and-realtime
 description: >-
   The live + realtime-format skill -- plan, promote, run, and repurpose livestreams and realtime moments (IG
   Live, TikTok LIVE, YouTube Live, LinkedIn Live, X, live shopping). Use when someone wants to plan a
-  livestream, go live, run a live Q&A/AMA, do live shopping, or repurpose a live recording. Live is the "human
-  premium" in an AI-saturated feed, but the value is the event around it: the promo that gets people there, the
-  live engagement that makes it feel like an event, and the repurposing that turns one live into weeks of
-  short-form. Uses the STAGE framework. Reads brand-profile + the live's goal/audience first. The agent plans
-  the live (format/platform pick + run-of-show), writes + schedules the pre-live promo (via WoopSocial),
-  advises the live-engagement playbook (the human runs the broadcast natively), and plans the repurposing
-  (recording -> clips -> scheduled via WoopSocial). WoopSocial does NOT broadcast/run the live (it's native),
-  do realtime comments/moderation, or run live shopping -- it schedules the promo posts and publishes the
-  repurposed clips. Never fabricate viewer numbers or buy fake live views. Promote-before + repurpose-after is
-  where WoopSocial adds value. Distinct from community-management (ongoing community + native live moderation),
-  engagement-routine (daily cadence), campaign-and-launch-planning (the multi-post arc), captions-and-clipping
-  (the clip craft it routes to), and reels-script/tiktok-script (scripted short video).
+  livestream, go live, run a live Q&A/AMA, do live shopping, or repurpose a live recording. Live is the
+  "human premium," but the value is the event around it: promo before, engagement during, repurposing
+  after. Uses the STAGE framework. Reads brand-profile + the live's goal first. The agent plans the live
+  (platform + run-of-show), writes + schedules the pre-live promo, advises the live playbook (the human
+  broadcasts natively), and plans the repurposing (recording -> clips). WoopSocial schedules the promo
+  and publishes the repurposed clips; it does NOT broadcast, moderate in realtime, or run live shopping.
+  Never fabricates viewer numbers. Distinct from community-management (native live moderation),
+  campaign-and-launch-planning, and captions-and-clipping (the clip craft it routes to).
 version: 1.0.0
 ---
 

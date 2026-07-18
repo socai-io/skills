@@ -1,22 +1,17 @@
 ---
 name: suno
 description: >-
-  The Suno craft skill — generate full songs, brand music, and audio (v5.5: vocals, lyrics, instrumentation,
-  stems, Studio DAW) with the right tier, honest rights, and structure control. Use when someone wants to make
-  music with Suno/AI, create a brand sound/theme/jingle/podcast intro, control song structure (meta-tags,
-  custom lyrics), build a consistent sonic identity (Personas, Voices, Custom Models), split stems, distribute
-  AI music to Spotify/YouTube, or asks whether they own their Suno songs. Uses the TRACK framework (Target the
-  brief, Rights first, Arrange with structure, Curate + humanize, Keep disclosure clean). Reads
-  ai-music-and-sound (the router) + brand-profile + the content skill the music serves first. The agent writes
-  briefs/lyrics/structures and can drive the API where connected; the HUMAN's ears judge every track; WoopSocial
-  publishes the content the music sits under (it does not generate or attach audio; trending audio is
-  native-only). The rights spine (post-Warner-deal, 2026): generate on a PAID plan from the first note (free-tier
-  songs are non-commercial FOREVER — no retroactive rights); paid users get COMMERCIAL RIGHTS, not ownership
-  (purely-AI music isn't copyrightable — human elements strengthen claims); NO indemnification while UMG/Sony
-  litigation is live (generic styles over artist references); pre-deal models face deprecation (archive
-  WAVs/stems/MIDI); DDEX AI-disclosure required at distribution. NEVER clone a real artist's voice, fake a
-  collab, or skip the AI flag. Distinct from ai-music-and-sound, ai-voiceover/elevenlabs (spoken TTS), capcut
-  (where the track scores the video), and podcast-and-audiograms. Ships with tools/integrations/suno.md.
+  The Suno craft skill — generate full songs, brand music, and audio (vocals, lyrics, stems) with
+  the right tier, honest rights, and structure control. Use when someone wants to make music with
+  Suno/AI, create a brand sound/theme/jingle/podcast intro, control song structure (meta-tags),
+  build a consistent sonic identity (Personas, Voices), split stems, distribute AI music to
+  Spotify/YouTube, or asks whether they own their Suno songs. Uses the TRACK framework. Reads
+  ai-music-and-sound (the router) + brand-profile + the content skill the music serves first. The
+  agent writes briefs/lyrics and can drive the API where connected; the HUMAN's ears judge every
+  track; WoopSocial publishes the content it scores. Rights: paid plan from the first note,
+  commercial rights not ownership, no indemnification while litigation runs, AI-disclosure at
+  distribution; never clone a real artist's voice. Distinct from ai-music-and-sound,
+  ai-voiceover/elevenlabs (spoken TTS), capcut, and podcast-and-audiograms.
 version: 1.0.0
 ---
 

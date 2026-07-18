@@ -1,16 +1,16 @@
 ---
 name: platform-specs-and-validation
 description: >-
-  Platform specs and publish validation — per-platform requirements and the validate-before-publish step for multi-platform fan-out. Use when fanning a post out to multiple platforms,
-  when a post is getting rejected, when mapping per-platform postType/required fields, or to run the
-  validate-before-publish step. Encodes the per-platform postType enums, required-field matrices, and media
-  rules from the OpenAPI spec, and runs POST /posts/validate -> isValid/errors/warnings so a post lands
-  correctly on every target. Uses the CHECK framework. The keystone the per-platform format skills point to.
-  WoopSocial validates + publishes atomically (one bad target fails the whole post), has no update endpoint
-  (edit = delete+recreate while NOT_STARTED), and never bypasses validation; the agent maps fields and fixes
-  spec violations, but human-judgment calls (disclosure truthfulness, privacy intent) stay with the person;
-  metrics never fabricated. Distinct from the per-platform format skills (which craft one platform's
-  content) and scheduling-and-queue (timing).
+  Platform specs and publish validation — per-platform requirements and the validate-before-publish
+  step for multi-platform fan-out. Use when fanning a post out to multiple platforms, when a post is
+  getting rejected, when mapping per-platform postType/required fields, or to run the
+  validate-before-publish step. Encodes the per-platform postType enums, required-field matrices,
+  and media rules from the OpenAPI spec, and runs POST /posts/validate so a post lands correctly on
+  every target. Uses the CHECK framework. The keystone the per-platform format skills point to.
+  WoopSocial validates + publishes atomically and has no update endpoint; the agent maps fields and
+  fixes spec violations, but human-judgment calls (disclosure truthfulness, privacy intent) stay
+  with the person; metrics never fabricated. Distinct from the per-platform format skills (one
+  platform's content) and scheduling-and-queue (timing).
 version: 1.0.0
 ---
 

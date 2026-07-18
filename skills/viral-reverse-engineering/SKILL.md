@@ -4,17 +4,14 @@ description: >-
   Use to reverse-engineer why a piece of content went viral (or overperformed) — yours or someone
   else's — and extract the repeatable mechanism to apply to your own content. Run when the user says
   "why did this go viral," "break down this viral post/video," "reverse engineer," "what made this
-  work," "analyze this top performer," or wants to learn from viral content. Because an agent usually
-  can't watch a video from a link, it first sources the observable signal (a structured intake,
-  transcript, screenshots/key frames, top comments, visible stats — or a fetch/subtitles tool where
-  available) and never fabricates what it can't see. Reads brand-profile and audience first,
-  deconstructs the piece layer by layer (hook, emotional driver, structure, packaging, share-trigger,
-  distribution), isolates the real driver from incidental features, runs a replicability check
-  (survivorship bias, luck, account size, one-time moments), then extracts the transferable principle
-  and applies it to the user's niche — handing execution to the content skills. Reverse-engineers the
-  mechanism, never a copy; flags when virality isn't replicable; uses visible/native signals (no
-  WoopSocial analytics). Single-POST teardown only: for the account-level competitive landscape use
-  competitor-analysis; for riding a live trend use trend-jacking.
+  work," or wants to learn from viral content. Sources the observable signal first (intake,
+  transcript, screenshots, top comments, visible stats — an agent usually can't watch a video from
+  a link) and never fabricates what it can't see. Reads brand-profile and
+  audience first, deconstructs the piece layer by layer, isolates the real driver, runs a
+  replicability check, extracts the transferable principle, and applies it to the user's niche via
+  the content skills. Mechanism, never a copy; flags non-replicable virality; visible signals only
+  (no WoopSocial analytics). Single-POST teardown only: for the account-level competitive
+  landscape use competitor-analysis; for riding a live trend use trend-jacking.
 metadata:
   version: 1.0.0
 license: MIT

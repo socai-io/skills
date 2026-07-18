@@ -2,20 +2,15 @@
 name: instagram-seo
 description: >-
   The Instagram SEO / keyword-search skill -- IG-specific search depth, distinct from the cross-cutting
-  social-seo. Use when someone wants an Instagram post/Reel to rank in search, needs IG keyword research, or
-  wants a searchable caption/profile. Instagram shifted from hashtag-based discovery to keyword-based search
-  (hashtags deprioritized to 3-5 topic labels; a large and growing share of discovery starts from search). It's a closed-system
-  search engine (no external crawl/backlinks) but Google+Bing index IG captions; search runs semantic analysis
-  -> metadata matching (Name field/bio/caption keyword cluster) -> visual recognition (Computer Vision checks
-  alt text + visual MATCH the caption). Uses the MATCH framework. Reads brand-profile + the post's topic first.
-  The agent researches the cluster (scan top Reels' captions/on-screen text, competitor Name fields, Google
-  People-Also-Ask -- never fabricates volume), writes the search-first caption (primary keyword in the first
-  sentence, no stuffing), specs the on-screen text + first-3-seconds spoken keyword (via image/video tools +
-  reels-script), and advises Name field/handle/bio/alt text/category. WoopSocial publishes the IG post's
-  caption (POST/REEL/STORY); Name field/handle/bio, alt text, category/location, auto-captions, and IG Search/
-  Insights are native/human. No keyword stuffing (suppressed), no irrelevant hashtags, caption must match the
-  visual (no misleading), remove other-platform watermarks, volumes never fabricated. Distinct from social-seo,
-  pinterest-seo, and hashtag-strategy; pairs with caption-writer + reels-script.
+  social-seo. Use when someone wants an Instagram post/Reel to rank in search, needs IG keyword
+  research, or wants a searchable caption/profile. Instagram shifted from hashtag-based discovery to
+  keyword-based search (hashtags deprioritized to 3-5 topic labels). Search runs semantic analysis ->
+  metadata matching -> visual recognition (checks alt text + visual MATCH the caption). Uses the MATCH
+  framework. Reads brand-profile + the post's topic first. The agent researches the keyword cluster
+  (never fabricates volume), writes the search-first caption (primary keyword first, no stuffing),
+  specs on-screen text + spoken keyword, and advises profile fields/alt text. WoopSocial publishes the
+  caption; profile fields, alt text, and IG Search/Insights stay native. No keyword stuffing; caption
+  must match the visual. Distinct from social-seo, pinterest-seo, and hashtag-strategy.
 version: 1.0.0
 ---
 

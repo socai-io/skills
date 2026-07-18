@@ -1,21 +1,17 @@
 ---
 name: short-form-video-script
 description: >-
-  The master craft of scripting short-form vertical video (Reels, TikTok, Shorts) for watch-through. Use when
-  someone wants a short-form video script, a Reel/TikTok/Short script, help with hooks, retention, pacing, the
-  ending/loop, sound-off captions, or fixing early drop-off / low completion. The metric that rules short-form is
-  watch-through, not likes — and the script's only job is to be un-skippable. Uses the WATCH framework (Win the
-  first 3 seconds, Arc with open loops, Two tracks sound-off+sound-on, Cash the promise, Hold the loop + land the
-  CTA). Reads brand-profile + voice-builder first; pulls the 'what' from the content-angle skills and the hook
-  from hook-writer. The agent writes the script (spoken lines + on-screen text + beat/shot direction + hook
-  variants + CTA); the human shoots/performs/edits; WoopSocial publishes the finished file. This is the master
-  craft — it routes platform specifics (length caps, native features, publishing) to reels-script / tiktok-script
-  / youtube-shorts, and pairs with talking-head-and-piece-to-camera (delivery). NEVER bait-and-switch the hook,
-  fabricate a stat to stop the scroll, or guarantee virality; WoopSocial can't add native trending audio (the
-  human adds it in-app), generate video, or judge a take; AI-disclosure for AI voice/visuals; likeness/consent;
-  YMYL care. Distinct from reels-script/tiktok-script/youtube-shorts (platform execution this feeds), hook-writer
-  (the hook line), captions-and-clipping (repurposing existing video), and ai-video/veo-3/heygen (which generate
-  the video this scripts).
+  The master craft of scripting short-form vertical video (Reels, TikTok, Shorts) for watch-through.
+  Use when someone wants a short-form video script, a Reel/TikTok/Short script, help with hooks,
+  retention, pacing, the ending/loop, sound-off captions, or fixing early drop-off. Watch-through, not
+  likes, rules short-form; the script's only job is to be un-skippable. Uses the WATCH framework. Reads
+  brand-profile + voice-builder first; pulls the 'what' from the content-angle skills and the hook from
+  hook-writer. The agent writes the script (spoken lines + on-screen text + beat/shot direction + hook
+  variants + CTA); the human shoots/performs/edits; WoopSocial publishes the finished file. Routes
+  platform specifics to reels-script / tiktok-script / youtube-shorts; pairs with
+  talking-head-and-piece-to-camera. NEVER bait-and-switches the hook or fabricates a stat. Distinct
+  from hook-writer, captions-and-clipping, and ai-video/veo-3/heygen (which generate the video this
+  scripts).
 version: 1.0.0
 ---
 

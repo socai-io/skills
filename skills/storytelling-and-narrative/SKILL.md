@@ -2,20 +2,16 @@
 name: storytelling-and-narrative
 description: >-
   The narrative-craft layer -- apply story structure (tension, transformation, resolution) to make any social
-  content stick and travel. Use when someone wants to tell their brand/founder/customer story, make a flat
-  post land, build an emotional or narrative-driven piece, or structure a story across formats. People share
-  feeling and meaning, not information; story-driven content outperforms informational posts on reach and
-  saves. Uses the BEATS framework. Reads brand-profile + voice-builder first. The agent finds the real story +
-  structures the arc (setup/problem -> turning point -> payoff, with the customer/audience as the hero and the
-  brand as the guide) + anchors it in concrete specifics + lands one clear emotional meaning + shapes it to the
-  format. It feeds the format writers (reels-script, carousel-writer, linkedin-post-writer, thread-writer,
-  caption-writer) for format mechanics and hook-writer for the opening; serialized arcs map into the
-  content-calendar. WoopSocial publishes the finished content. It is NOT the IG/FB Stories format (that's
-  story-writer). Never fabricate a customer story or testimonial (truth + consent -> route real ones to
-  social-proof/ugc); authenticity over polish; not every post needs a forced narrative; story metrics are
-  saves/shares/comments, not likes; never guarantee virality. Distinct from story-writer (the Stories format),
-  hook-writer (the opening line it pairs with), the format writers (mechanics it feeds), and
-  campaign-and-launch-planning (the launch arc).
+  content stick and travel. Use when someone wants to tell their brand/founder/customer story, make a
+  flat post land, build an emotional or narrative-driven piece, or structure a story across formats.
+  Uses the BEATS framework. Reads brand-profile + voice-builder first. The agent finds the real story,
+  structures the arc (setup -> turning point -> payoff; audience = hero, brand = guide), anchors
+  concrete specifics, and shapes it to the format. Feeds the format writers (reels-script,
+  carousel-writer, linkedin-post-writer, thread-writer, caption-writer) and hook-writer; serialized arcs
+  map into content-calendar; WoopSocial publishes. NOT the IG/FB Stories format (that's story-writer).
+  Never fabricates a customer story or testimonial; never guarantees virality. Distinct from
+  story-writer, hook-writer (the opening it pairs with), the format writers, and
+  campaign-and-launch-planning.
 version: 1.0.0
 ---
 

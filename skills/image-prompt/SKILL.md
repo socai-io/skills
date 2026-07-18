@@ -5,19 +5,13 @@ description: >-
   brief, describe it with model-agnostic prompt craft, and route to the right tool. Run when the user
   says "I need a visual/image for this post," "what image should I use," "make a graphic," "help me
   prompt an image," or is unsure which image tool/model to use. Reads brand-profile for the visual
-  brand. Teaches: the image brief (the job — hero / explainer / quote graphic / product / thumbnail /
-  background — the one thing it must convey, the platform aspect ratio); the universal anatomy of a
-  strong prompt (subject, composition, lighting, colour, style, mood, framing, constraints) in natural
-  language, not keyword spam; and a tool router (text-heavy/typographic -> ideogram or nano-banana;
-  photoreal portraits/product -> nano-banana or flux; surreal/painterly art -> Midjourney; editing
-  "change one thing, keep the rest" -> nano-banana or flux; consistent character/product set ->
-  nano-banana or flux (reference images); vector/SVG -> Recraft; video -> veo-3). Includes a "should
-  this even be AI-generated?" gate (a real photo, screenshot, UGC, or chart often beats generic AI),
-  accessibility (contrast/legibility, negative space for overlays), and honest cross-cutting scope
-  (disclose AI per platform/region, never real identifiable people or copyrighted IP, verify
-  text/data). Hands off to the tool-specific mini-skills (nano-banana, ideogram, flux,
-  veo-3) for model-specific craft; the connection/API lives in tools/integrations/*;
-  WoopSocial publishes the result via Media upload and doesn't generate images.
+  brand. Teaches the image brief, the universal anatomy of a strong prompt in natural language, and a
+  tool router (typographic -> ideogram/nano-banana; photoreal -> nano-banana/flux; surreal ->
+  Midjourney; editing -> nano-banana/flux; vector -> Recraft; video -> veo-3).
+  Includes a "should this even be AI-generated?" gate (a real photo, screenshot, or chart often beats
+  generic AI), accessibility, and honest scope (disclose AI, never real identifiable people or
+  copyrighted IP, verify text/data). Hands off to the tool-specific mini-skills; WoopSocial publishes
+  via Media and doesn't generate images.
 metadata:
   version: 1.0.0
 license: MIT

@@ -5,14 +5,13 @@ description: >-
   for Instagram's discovery engine, built around a 3-second hook, watch-through, and sends (DM
   shares). Run when the user says "Reels script," "Instagram Reel," "make a Reel," "Reel hook,"
   "trial reel," or wants short-form video for Instagram specifically. Reads brand-profile and voice
-  first; writes the muted version first (most Reels are watched on mute); hooks in the first 3
-  seconds via hook-writer; structures for watch-through + sends; places IG-search keywords with
-  instagram-seo; picks original vs trending audio (trending audio is added natively in-app — not
-  via WoopSocial); briefs the grid-safe cover frame; and outputs a production doc (shot - on-screen
-  text - spoken - audio - timing). Bundles a Veo prompt pack for faceless/b-roll shots. The generic
-  scripting craft lives in short-form-video-script; for TikTok use tiktok-script; for Shorts use
-  youtube-shorts; hands the caption to caption-writer, publishing (specs/safe zone/cover) to
-  instagram-reels-publishing, and scheduling to scheduling-and-queue.
+  first; writes the muted version first; structures for watch-through + sends; places IG-search
+  keywords; picks original vs trending audio (trending audio is added natively in-app — not via
+  WoopSocial); briefs the cover frame; outputs a production doc (shot - on-screen text - spoken -
+  audio - timing) plus a Veo prompt pack for faceless/b-roll shots. The generic scripting craft
+  lives in short-form-video-script; for TikTok use tiktok-script; for Shorts use youtube-shorts;
+  hands the caption to caption-writer, publishing to instagram-reels-publishing, and scheduling to
+  scheduling-and-queue.
 metadata:
   version: 1.0.0
 license: MIT

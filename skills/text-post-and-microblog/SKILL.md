@@ -1,21 +1,17 @@
 ---
 name: text-post-and-microblog
 description: >-
-  The master craft of the standalone text post / microblog (LinkedIn, X/Twitter, Threads, Bluesky, Facebook text
-  posts). Use when someone wants to write a text post, a LinkedIn post, a short written update, a microblog, or fix
-  a post that flopped / reads as a wall of text / has a weak opening line. A text post has nowhere to hide — no
-  thumbnail, no audio — so the words are everything and the first ~140-210 characters (the 'see more' fold) are
-  most of the job. Uses the LINES framework (Lead with the line that earns the tap, Isolate one idea, Negative
-  space, Earn the read, Spark a reply). Reads brand-profile + voice-builder + hook-writer first; pulls the 'what'
-  from the content-angle skills. The agent writes the post; the human approves; WoopSocial publishes to supported
-  platforms (FACEBOOK/LINKEDIN/LINKEDIN_PAGES/X/THREADS/BLUESKY). This is the master craft — it routes platform specifics
-  (char limits, native features, norms) to linkedin-post-writer / threads-post / caption-writer / thread-writer.
-  NEVER fabricate a stat/story/metric, use engagement-bait ('comment YES / like & share' — suppressed), or
-  over-format into AI-slop (Unicode-bold-everywhere, emoji-per-line, rigid templates read as generated);
-  WoopSocial has no native multi-post threads (content maxItems 1 — chaining is manual); Reddit/Mastodon are
-  advisory-only (agent drafts, human posts); AI-disclosure, consent, YMYL care. Distinct from caption-writer (text
-  under media), thread-writer (chained threads), linkedin-post-writer/threads-post (platform execution), and the
-  content-angle skills (the WHAT vs this HOW).
+  The master craft of the standalone text post / microblog (LinkedIn, X/Twitter, Threads, Bluesky,
+  Facebook text posts). Use when someone wants to write a text post, a LinkedIn post, a short written
+  update, a microblog, or fix a post that flopped / reads as a wall of text / has a weak opening line.
+  A text post has nowhere to hide -- the words are everything, and the first ~140-210 characters (the
+  'see more' fold) are most of the job. Uses the LINES framework. Reads brand-profile + voice-builder +
+  hook-writer first; pulls the 'what' from the content-angle skills. The agent writes the post; the
+  human approves; WoopSocial publishes to supported platforms, routing specifics to
+  linkedin-post-writer / threads-post / thread-writer. NEVER fabricates a stat/story/metric or uses
+  engagement-bait; avoids AI-slop over-formatting. No native multi-post threads; Reddit/Mastodon are
+  advisory-only. Distinct from caption-writer, thread-writer, and the content-angle skills (WHAT vs
+  this HOW).
 version: 1.0.0
 ---
 

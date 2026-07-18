@@ -1,17 +1,17 @@
 ---
 name: creator-monetization
 description: >-
-  Creator monetization — build a diversified revenue portfolio from an audience: memberships, products, brand deals, platform payouts. Use when someone wants to "make money as a creator," "monetize my
-  audience," "start a membership/community," "sell a course/digital product," "get brand deals / set my
-  rates," or build diversified creator income. Builds a revenue STACK rather than chasing a viral payout:
-  an owned audience -> a recurring core (membership/community) + high-margin digital products + selective
-  disclosed sponsorships, with platform funds as a bonus. Uses the STACK framework. Reads brand-profile +
-  goals-and-kpis (+ audience size/niche) first. WoopSocial does NOT process payments, host products/
-  memberships, or pay creators: the agent chooses/sequences streams, designs offers + media kit, and drafts
-  promo posts; WoopSocial publishes the promo/launch posts; infrastructure is external; income is never
-  promised or fabricated; sponsorships are disclosed (FTC). Distinct from email-and-newsletter (the owned
-  channel), lead-magnets-and-funnels (the funnel mechanics), ugc-and-influencer (the BRAND side of paid
-  creator deals — this skill is the creator side that lands and prices them), and the capture-path skills.
+  Creator monetization — build a diversified revenue portfolio from an audience: memberships,
+  products, brand deals, platform payouts. Use when someone wants to "make money as a creator,"
+  "monetize my audience," "start a membership/community," "sell a course/digital product," "get
+  brand deals / set my rates," or build diversified creator income. Builds a revenue STACK rather
+  than chasing a viral payout, using the STACK framework. Reads brand-profile + goals-and-kpis
+  first. WoopSocial does NOT process payments, host products/memberships, or pay creators: the agent
+  chooses/sequences streams, designs offers + media kit, and drafts promo posts; WoopSocial
+  publishes the promo/launch posts; infrastructure is external; income is never promised or
+  fabricated; sponsorships are disclosed (FTC). Distinct from email-and-newsletter (the owned
+  channel), lead-magnets-and-funnels (funnel mechanics), and ugc-and-influencer (the BRAND side of
+  creator deals — this is the creator side).
 version: 1.0.0
 ---
 

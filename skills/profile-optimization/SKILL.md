@@ -5,13 +5,12 @@ description: >-
   leads — bio, handle, name/headline field, profile picture, banner/header, link-in-bio, CTA, pinned
   posts, and highlights. Run when the user says "optimize my profile/bio," "write my bio," "my
   Instagram/LinkedIn/TikTok bio," "profile," "link in bio," "my profile isn't converting," asks
-  about creator mode or a professional/business account, or wants their account to convert better. Reads brand-profile, voice, audience, and social-strategy first.
-  Treats the profile as a conversion landing page: ensures the 3-second clarity test (who you help,
-  what you offer, why follow), uses the searchable fields (the Instagram name field, the LinkedIn
-  headline) for keywords, writes a who/what/why bio with a clear CTA, matches the link to the goal,
-  and specs the visual + pinned + highlights. Advisory: produces a ready-to-apply per-platform spec
-  (WoopSocial publishes posts/media; it does not edit profile fields). Judges results via native
-  profile insights, not WoopSocial analytics.
+  about creator mode or a professional/business account, or wants their account to convert better.
+  Reads brand-profile, voice, audience, and social-strategy first. Treats the profile as a
+  conversion landing page — 3-second clarity, searchable-field keywords, a who/what/why bio with one
+  CTA, a goal-matched link, and specs for the visuals, pinned posts, and highlights. Advisory:
+  produces a ready-to-apply per-platform spec (WoopSocial publishes posts/media; it does not edit
+  profile fields). Judges results via native profile insights, not WoopSocial analytics.
 metadata:
   version: 1.0.0
 license: MIT

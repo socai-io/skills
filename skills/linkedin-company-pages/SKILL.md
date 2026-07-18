@@ -2,18 +2,15 @@
 name: linkedin-company-pages
 description: >-
   The LinkedIn company-page (LINKEDIN_PAGES) growth strategy skill -- a separate platform from personal
-  LINKEDIN. Use when someone wants to grow a company/business page, fix low page reach ("our LinkedIn page
-  gets no engagement / is dead"), set up employee advocacy, or plan company-page content. In 2026 company pages get ~1-5% of feed allocation and organic reach fell
-  60-66%, so the page is a credibility hub + paid launchpad (LinkedIn Ads + Thought Leader Ads run from it),
-  NOT the organic reach engine -- the growth lever is employee advocacy (people not logos): employees have
-  ~10x the connections, ~3% share yet drive ~30% of engagement, and employee leads convert ~7x. Uses the
-  HUMAN framework. Reads brand-profile + goals-and-kpis first. The agent strategizes the page + designs the
-  advocacy program + drafts page posts + drafts shareable advocacy content; WoopSocial publishes the company
-  page's OWN posts (text+media+optional link) on a schedule; employees post from their OWN profiles (the
-  growth engine -- human, routes to linkedin-growth), and the first-hour engagement, Ads/Thought-Leader-Ads,
-  Notify-Employees/Showcase/Events/Newsletters, and Page analytics are native. No engagement-bait/pods/
-  forced-identical posts/bought followers, links in comments not body, metrics never fabricated. Distinct from
-  linkedin-growth (personal profile) and linkedin-post-writer (the post craft).
+  LINKEDIN. Use when someone wants to grow a company/business page, fix low page reach ("our LinkedIn
+  page gets no engagement"), set up employee advocacy, or plan company-page content. In 2026 pages get a
+  tiny share of feed reach, so the page is a credibility hub + paid launchpad (Ads + Thought Leader
+  Ads), NOT the reach engine -- the growth lever is employee advocacy (people, not logos). Uses the
+  HUMAN framework. Reads brand-profile + goals-and-kpis first. The agent strategizes, designs the
+  advocacy program, and drafts page posts + advocacy content; WoopSocial publishes the page's own posts
+  on a schedule; employees post from their OWN profiles (routes to linkedin-growth); first-hour
+  engagement, Ads, and analytics stay human/native. No bait, pods, or bought followers; never fabricates
+  metrics. Distinct from linkedin-growth (personal profile) and linkedin-post-writer (the post craft).
 version: 1.0.0
 ---
 

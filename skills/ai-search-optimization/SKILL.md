@@ -2,21 +2,15 @@
 name: ai-search-optimization
 description: >-
   Use to get a brand and its content CITED and RECOMMENDED by AI answer engines — the GEO (Generative
-  Engine Optimization) / AI-search-visibility skill. Run when the user says "GEO," "generative engine
-  optimization," "get cited by ChatGPT/Perplexity/Google AI," "ChatGPT SEO," "LLM SEO / LLMO," "AI
-  search visibility," "AI Overviews," "Google AI Mode," "answer engine optimization (AEO)," "will AI
-  recommend my brand," or wants to show up in AI-generated answers (not just the feed or Google links). Reads brand-profile and audience first.
-  Built on the verified 2026 reality: AI engines use retrieval-augmented generation + query fan-out
-  and cite community/social sources heavily (Reddit ~47% of Perplexity citations, YouTube the
-  strongest AI-Overview signal, Wikipedia for ChatGPT facts), platforms disagree on sources, earned
-  media + brand mentions matter more than product pages, and extractable content (quotations,
-  statistics, citations, Q&A, schema) plus freshness drive citation. Covers the four GEO levers (be
-  retrievable, earn brand mentions across cited sources, make content extractable, build entity
-  clarity), the social plays (Reddit/YouTube/LinkedIn done authentically), and the manual prompt-audit
-  measurement method. Refuses astroturfing/fake reviews and never fabricates AI "share of voice"
-  numbers. Sibling of social-seo (which owns platform + Google search); hands the retrieval-layer SEO
-  foundation to it. Judges via the manual prompt-audit + emerging GEO tools + AI referral traffic —
-  not WoopSocial analytics.
+  Engine Optimization) / AI-search-visibility skill. Run when the user says "GEO," "get cited by
+  ChatGPT/Perplexity/Google AI," "ChatGPT SEO," "LLM SEO / LLMO," "AI Overviews," "answer engine
+  optimization (AEO)," "will AI recommend my brand," or wants to show up in AI-generated answers, not
+  just the feed or Google links. Reads brand-profile and audience first. AI engines retrieve + fan-out
+  and cite community/social sources heavily (Reddit, YouTube, Wikipedia); platforms disagree; earned
+  media beats product pages; extractable, fresh content drives citation. Covers the four GEO levers
+  (retrievable, earned mentions, extractable content, entity clarity), authentic social plays, and the
+  manual prompt-audit method. Refuses astroturfing; never fabricates "share of voice." Sibling of
+  social-seo (platform + Google search). Judges via the audit + GEO tools + AI referral traffic.
 metadata:
   version: 1.0.0
 license: MIT

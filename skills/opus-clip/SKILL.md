@@ -1,21 +1,16 @@
 ---
 name: opus-clip
 description: >-
-  The OpusClip craft skill — turn long video (podcasts, webinars, interviews, streams) into publishable short
-  clips with AI candidate-finding, honest triage, and a human-reviewed pipeline. Use when someone wants to use
-  OpusClip, turn a podcast/webinar/VOD into shorts, understand the Virality Score, pick an OpusClip plan, pull a
-  specific moment from a long recording (ClipAnything moment search), or automate a clipping pipeline. Uses the
-  CLIPS framework (Choose the source, Let AI find candidates, Inspect and rank honestly, Polish the top few, Ship
-  on a drip). Reads captions-and-clipping (the craft) + the source skill (podcast-and-audiograms /
-  youtube-long-form) + brand-profile/design-and-templates first. The agent plans the pipeline, the credit math,
-  and the QA; the HUMAN reviews every clip (stands alone / fair to the speaker / serves the audience) and
-  approves; WoopSocial publishes the finished exports (it does not clip or edit video). The integrity spine: the
-  Virality Score is a proprietary PREDICTION — triage, never truth (the one independent test found ~40% of clips
-  get discarded and the score regularly mispredicts); 1 credit = 1 SOURCE minute regardless of clips out; the API
-  is reported Business-tier-only; no unreviewed auto-post pipelines; no out-of-context clips of anyone's words.
-  Distinct from captions-and-clipping (the general craft this executes with one tool), descript (the long-form
-  edit), capcut (short-form styling/polish), and the platform publishing skills. Ships with
-  tools/integrations/opus-clip.md.
+  The OpusClip craft skill — turn long video (podcasts, webinars, interviews, streams) into publishable
+  short clips with AI candidate-finding, honest triage, and a human-reviewed pipeline. Use when someone
+  wants to use OpusClip, turn a podcast/webinar/VOD into shorts, understand the Virality Score, pick a
+  plan, pull a moment from a long recording (ClipAnything moment search), or automate a clipping
+  pipeline. Uses the CLIPS framework. Reads captions-and-clipping + the source skill + brand-profile
+  first. The agent plans the pipeline, credit math, and QA; the HUMAN reviews every clip and approves;
+  WoopSocial publishes the finished exports (it does not clip or edit video). Integrity spine: the
+  Virality Score is a PREDICTION for triage, never truth; 1 credit = 1 SOURCE minute; no unreviewed
+  auto-post pipelines; no out-of-context clips. Distinct from captions-and-clipping (general craft),
+  descript (long-form edit), capcut (short-form polish), and the platform publishing skills.
 version: 1.0.0
 ---
 

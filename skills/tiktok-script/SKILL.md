@@ -5,14 +5,12 @@ description: >-
   discovery engine (the FYP), built around a brutal 1-second hook, watch-time, and rewatches. Run
   when the user says "TikTok script," "TikTok video," "script for TikTok," "make a TikTok,"
   "storytime," "TikTok hook," or wants short-form video for TikTok specifically. Reads
-  brand-profile and voice first; rides a trending sound/format where it genuinely fits (hands live
-  trend research to trend-jacking); hooks in the first second via hook-writer; structures for
-  completion + rewatch; optimizes for TikTok search (keywords); and outputs a production doc
-  (shot - on-screen text - spoken - sound - timing). Bundles a Veo prompt pack for faceless/b-roll
-  shots while flagging that native filming often beats AI on TikTok. For Instagram Reels use
-  reels-script; for YouTube Shorts use youtube-shorts; for the platform-agnostic scripting craft
-  (hooks/retention/sound-off across all short-form) use short-form-video-script (this skill is its
-  TikTok specialization); hands caption to caption-writer and scheduling to scheduling-and-queue.
+  brand-profile and voice first; rides a trending sound/format where it genuinely fits (live trend
+  research goes to trend-jacking); structures for completion + rewatch; optimizes for TikTok search;
+  outputs a production doc (shot - on-screen text - spoken - sound - timing) plus a Veo prompt pack
+  for faceless/b-roll shots (native filming often beats AI on TikTok). For Instagram Reels use
+  reels-script; for YouTube Shorts use youtube-shorts; for the platform-agnostic scripting craft use
+  short-form-video-script; hands caption to caption-writer and scheduling to scheduling-and-queue.
 metadata:
   version: 1.0.0
 license: MIT

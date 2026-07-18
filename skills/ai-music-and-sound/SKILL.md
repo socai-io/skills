@@ -2,21 +2,16 @@
 name: ai-music-and-sound
 description: >-
   The AI music + sound-design skill for social -- original/licensed audio beds and sound design for
-  Reels/TikToks/Shorts/videos. Use when someone needs background music, a track, or sound effects for a social
-  video, asks which AI music tool is safe to use, or asks "can I use this trending sound/song on my brand
-  video?". For social, the real brief is "audio that won't get
-  muted, Content-ID-claimed, or sued", so it picks the safest licensed source and never uses copyrighted or
-  platform trending music for a brand without a license. Uses the SCORE framework. Reads brand-profile + the
-  video/asset it scores first. The agent briefs the music + sound design (mood/genre/tempo to the video's
-  beats; SFX/transition accents) + picks the safest licensed source (ElevenLabs Music/SFX -- cleanest,
-  licensed from day one -- or stock libraries Epidemic/Artlist/Soundstripe over the contested Suno/Udio; paid
-  tier for commercial rights) + advises licensing/Content-ID/AI-disclosure. The tool generates/licenses the
-  audio; the creator bakes it into the video; WoopSocial publishes the finished video. WoopSocial does NOT
-  generate music, add native trending audio (not via API), clear licenses, or run Content ID. Never
-  copyrighted/trending music for a brand without a license; paid tier for commercial rights (free !=
-  commercial); pure AI music may not be copyrightable; indemnification mostly absent; keep the license +
-  document human contribution; never promise "100% legally safe". Pairs with ai-voiceover (the voice
-  sibling); ships tools/integrations/ai-music-and-sound.md.
+  Reels/TikToks/Shorts/videos. Use when someone needs background music, a track, or sound effects for a
+  social video, asks which AI music tool is safe to use, or asks "can I use this trending sound/song on
+  my brand video?". The real brief is "audio that won't get muted, claimed, or sued," so it picks the
+  safest licensed source and never uses copyrighted or trending music without a license. Uses the SCORE
+  framework. Reads brand-profile + the video it scores first. The agent briefs the music + sound
+  design, picks the safest licensed source (ElevenLabs Music/SFX or stock libraries over Suno/Udio;
+  paid tier for commercial rights), and advises licensing/Content-ID/disclosure. The tool
+  generates/licenses the audio; the creator bakes it in; WoopSocial publishes the video and does NOT
+  generate music. Pure AI music may not be copyrightable; never "100% legally safe." Pairs with
+  ai-voiceover.
 version: 1.0.0
 ---
 

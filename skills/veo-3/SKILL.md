@@ -3,21 +3,15 @@ name: veo-3
 description: >-
   Use to write great prompts for Google Veo (Veo 3.1) to generate or animate video for social media —
   the video-prompt-craft mini-skill, the video counterpart to nano-banana. Run when the user wants a
-  Veo / AI video prompt, a short video clip for a post (b-roll, establishing shot, product-in-motion,
-  hook visual, spokesperson/UGC clip, ad), to animate a still image into video, or a vertical
-  Reel/TikTok/Short clip. Reads brand-profile for brand style. Built on the verified 2026 reality: Veo
-  3.1 generates 4/6/8-second 720p-4K clips with native synchronized AUDIO (dialogue + lip-sync, SFX,
-  ambient, music) in one pass — its standout differentiator — plus cinematic realism, image-to-video,
-  reference-image consistency (ingredients), first/last-frame control, and native 9:16 vertical.
-  Teaches the prompt anatomy (subject, action, scene, camera, lighting, mood, style, audio, timing),
-  audio prompting (dialogue in quotes), the image-to-video pipeline (e.g. animate a Nano Banana
-  still), and the 8-second constraint + scene-extension/stitching for longer videos. Honest: video is
-  async and costly so iterate at low-res/Fast then finalize, every clip carries a SynthID watermark and
-  must be disclosed per platform/region (EU AI Act, TikTok auto-disclosure), treat generated audio as
-  a draft/guide track for branded work, never generate real identifiable people or copyrighted
-  characters/IP, and verify the output. This is the prompt-craft layer — the API/connection (model
-  IDs, async generate-and-poll, the generate -> upload to WoopSocial Media -> attach flow) lives in
-  tools/integrations/veo.md; the consuming pack is reels-script's veo-prompt-pack.
+  Veo / AI video prompt, a short video clip for a post (b-roll, product-in-motion, hook visual,
+  spokesperson/UGC clip, ad), to animate a still image into video, or a vertical Reel/TikTok/Short
+  clip. Reads brand-profile for brand style. Veo's standout is native synchronized audio in one
+  pass, plus image-to-video and native 9:16 vertical. Teaches the prompt anatomy, audio prompting,
+  the image-to-video pipeline, and the 8-second constraint + extension/stitching. Honest: iterate
+  cheap then finalize, disclose AI video (SynthID watermark), never generate real identifiable
+  people or copyrighted IP. This is the
+  prompt-craft layer — the API/connection and the generate -> upload to WoopSocial Media -> attach
+  flow live in tools/integrations/veo.md; the consuming pack is reels-script's veo-prompt-pack.
 metadata:
   version: 1.0.0
 license: MIT

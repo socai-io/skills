@@ -5,15 +5,12 @@ description: >-
   stuck and orchestrates the other skills to fix it. Run when the user says "grow on TikTok," "TikTok
   growth," "get more followers/views on TikTok," "my TikTok isn't growing," "go viral on TikTok," or
   "TikTok strategy." Reads brand-profile, social-strategy, and audience first. Built on the 2026
-  reality: TikTok is an interest graph (follower count is not a ranking factor — every video is
-  tested on a cold audience), the dominant signals are completion rate (aim ~70%+ to go viral) and
-  rewatches/loops, search/SEO is a major evergreen growth pillar, and growth comes from consistent
-  at-bats plus native features (Stitch/Duet, Series, LIVE, pinned comments). Diagnoses the broken
-  stage/phase of the test-and-expand loop and routes to the right skill (tiktok-script, hook-writer,
-  profile-optimization, content-calendar, hashtag-strategy, trend-jacking, viral-reverse-engineering).
-  Treats followers as a business asset (LIVE/Shop/owned audience), not the reach mechanism. Judges
-  via native TikTok analytics (completion, rewatch, shares, traffic source) — not WoopSocial
-  analytics.
+  reality that TikTok is an interest graph — follower count is not a ranking factor; completion rate
+  and rewatches drive reach, and search/SEO is a major evergreen pillar. Diagnoses the broken stage
+  of the test-and-expand loop and routes to the right skill (tiktok-script, hook-writer,
+  profile-optimization, content-calendar, hashtag-strategy, trend-jacking,
+  viral-reverse-engineering). Judges via native TikTok analytics — not WoopSocial analytics — and
+  treats followers as a business asset, not the reach mechanism.
 metadata:
   version: 1.0.0
 license: MIT
