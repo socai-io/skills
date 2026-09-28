@@ -16,7 +16,7 @@ integration.
 
 ## Connection model
 
-1. **Jev Social runtime:** use the immutable v0.1.8 runtime pin below.
+1. **Jev Social runtime:** use the immutable v0.1.10 runtime pin below.
 2. **Browser execution:** a compatible local `socai` CLI reuses the user's
    Chrome session. Platform authentication stays in that browser profile.
 3. **Decision provider:** either OpenRouter with Jev access or a
@@ -51,7 +51,7 @@ Start the compatible System One server separately, then check the runtime.
 Check the local runtime before research:
 
 ```bash
-npx github:socai-io/jev-social#5270e23cfd27aace9055669ee396926973baa241 status
+npx github:socai-io/jev-social#baf3cd6aa4f9c881665c29ed29a10391f761760b status
 ```
 
 Require a ready decision provider, installed `socai` CLI, and a reported
@@ -61,7 +61,7 @@ or logs: it can contain local configuration and executable paths.
 Run a bounded task:
 
 ```bash
-npx github:socai-io/jev-social#5270e23cfd27aace9055669ee396926973baa241 search \
+npx github:socai-io/jev-social#baf3cd6aa4f9c881665c29ed29a10391f761760b search \
   "find public posts about <topic> and read relevant comments" \
   --platform <auto|instagram|tiktok|linkedin> \
   --limit 4 \
@@ -111,6 +111,12 @@ post's claim or establish a trend.
 - Keep only public fields needed for the research output. Do not expose raw
   JSON, command arrays, local paths, tokens, keys, cookies, DOM snapshots, or
   browser storage.
+- Jev Social launches `socai` through an explicit environment allowlist that
+  excludes `OPENROUTER_API_KEY`, `TYPESAFE_API_KEY`, `SOCAI_API_KEY`,
+  and session-token variables.
+- v0.1.10 sets `SOCAI_TELEMETRY=0` on each spawned CLI process unless the
+  exact value `SOCAI_TELEMETRY=1` opts in. This does not reconfigure a
+  separately running socai Desktop process.
 - OpenRouter decisions receive the bounded research state needed to choose
   an operation. If an OpenRouter key is present, report synthesis defaults to
   enabled and sends sanitized captured evidence to the report model unless
@@ -143,8 +149,8 @@ bounded Jev decisions and the local `socai` CLI → guide:
 
 ## Related
 
-- [Jev Social v0.1.8](https://github.com/socai-io/jev-social/tree/v0.1.8)
-- [Canonical Agent Skill](https://github.com/socai-io/jev-social/tree/v0.1.8/skills/jev-social)
+- [Jev Social v0.1.10](https://github.com/socai-io/jev-social/tree/v0.1.10)
+- [Canonical Agent Skill](https://github.com/socai-io/jev-social/tree/v0.1.10/skills/jev-social)
 - [socai](https://github.com/socai-io/socai)
 - Research output can feed this repository's `audience-research`,
   `content-research-and-sourcing`, or `competitor-analysis` skills after a
